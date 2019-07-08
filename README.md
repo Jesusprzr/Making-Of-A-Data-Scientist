@@ -1,5 +1,5 @@
 # What's this all about?
-This repository is intended to be where I keep the documentation and structure of my learning process while giving access to the resources for anyone who wants to follow my learning path.
+This repository is intended to be where I keep the documentation and structure of my learning process while giving access to the resources for anyone who wants to follow my learning path and approach.
 # Structure:
 ### I will structure it on the following format: 
 * Basic/Foundational knowledge.
