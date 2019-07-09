@@ -23,3 +23,25 @@ When you are approaching any kind of specialization you want to do the same, you
   * Starting to walk in certain direction.
     * The roadmap and resources of my learning process.
       * files, projects and personal stuff that could help you through your path. 
+
+# DS Straight Learning & Implementation:
+First of all we want to have the sufficient tools and knowledge to apply data science. So we will begin with some hard theory but that will be translated in the capacity to start doing data science projects right away.
+ .1 *R* for Data Science (O'Reilly)
+    * Explore
+    * Wrangle
+    * Program
+    * Model
+    * Communicate
+Now that we have the tools and know how to use them, out learning process will become slightly different. Now we want to keep learning but more importantly, start implementing what we already know and **start building our portfolio.** This will allow us to really forge what we learned before into our brain while building a portfolio and also keep learning new things that will be really useful.
+ .2 *SQL, PostgreSQL* & project(s)
+    * Data Science project
+    * *SQL* for data science
+    * *PostgreSQL* Up and Running
+With knowledge on R, SQL and a portfolio that is being enhanced at time pases and mirrors our abilities show get us on a good position for landing a DS job and start aquiring experience. But we don't want to stop learning! Now what we want to do is increase more our attention to our portfolio and linking with others. These two things will be our main focus, but we will also keep learning, but it just won't be our main target. 
+ .3 ML and *Python* for data analysis
+    * *Python* for Data Analysis (O'Reilly)
+    * 
+   
+ 
+  
+ 
