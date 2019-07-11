@@ -95,7 +95,7 @@ The *ML* **Blueprint** is dessigned around **The 3 Elements Of Great ML**.
 For this chapter we will start completely diving into the first step of all the five steps of the process of modeling.
 This step should **NOT** be confused with data visualization or summary statistics. Those are merely tools that we have to achieve an end. **Proper exploratory analysis** is about answering questions. It's about **extracting enough insights** from your dataset to course correct before you get lost in the weeds.
 
-### Why Explroe Your Dataset Upfront?
+### Why Explore Your Dataset Upfront?
 Your purpose here is to **"get to know"** the dataset. Doing this from an up-front approach have some advantages:
   1.  You'll gain valuable hints for *data cleaning* (which can make or break your models).
   2.  You'll think of ideas for *feature engineering* (which can take your models from good to great).
@@ -155,7 +155,84 @@ What you need to know about correlation:
   * Correlation **headmaps**  allow you to visualize this information.
 #### In general you should look out for:
    * Which features are **strongly correlated** with the **target variable?**
-   * Are there **interesting or unexpected strong** correlations between other features?
+   * Are there **interesting or unexpected** strong correlations between other features?
 
 Remember that your aim here is to **gain intuition** about the data. 
 By the end of your Exploratory Analysis step, you'll have a pretty good understanding of the dataset, some notes for data cleaning, and possibly some ideas for feature engineering.
+
+## Chapter 3 - Data Cleaning
+Depending of the quality of your data, your projects will **live** or **die**.
+The steps and techniques for data cleaning vary from dataset to dataset. Here, we are going to learn a **reliable starting framework** that can ve used every time. 
+
+### Better Data > Fancier Algorithms
+Proper data cleaning can make or break your project. This is why professional *DS* spend a very large portion of the time on this step.
+Because a simple boolean statement:
+
+*>>> Better Data > Fancier algorithms*
+
+*True*
+
+**_Congratulations, you just learned python boolean expressions!_**
+
+Don't get it yet? try reasoning with this, we already mentioned it:
+
+*>>> input = garbage*
+
+*>>> output = garbage*
+
+*>>> input == output*
+
+*True*
+
+####  Remember this because if we reiterate over it that much is for something:
+  - Garbage in gets you garbage out.
+  - From a properly cleaned dataset, even simple algorithms can learn impressive insights from the data.
+  - Different types of data, require different types of cleanin, **BUT**. The systematic approach laid out in this lessons can always serve as a good starting point. 
+
+### Remove Unwanted Observations
+This include **duplicate** or **irrelevant** observations. Wipe them out!
+  - **Duplicate observations:** Most frequently arise during **data collection**, such as when you:
+    * Combine datasets from multiple places
+    * Scrape data
+    * Receive data from clients/other departments
+  - **Irrelevant observations:** Are those that **don't actually fit** the specific problem that you are trying to solve.
+    * This is a great time to review the distribution of your categorical features (in your exploratory analysis charts), to see if there are any classes that shouldn't be there.
+    * Checking for irrelevant observations **before engineering features** can save you many headaches down the road.
+    
+### Fix Structural Errors
+Structural errors are those that arise during measurement, data transfer, or other types of **"poor housekeeping."**
+For instance, you can check for **typos** or **inconsistent capitalization**. This is mostly a concern for categorical features, and you can look at your bar plots to check.
+Finally, check for **mislabeled classes**, i.e. separate classes that should really be the same.
+  - e.g. If ’N/A’ and ’Not Applicable’ appear as two separate classes, you should combine them.
+  - e.g. ’IT’ and ’information_technology’ should be a single class.
+
+### Filter Unwanted Outliers
+Linear regression is less robust to outliers than decision three models. So, in general. If you have a **legitimate** reason to remove outliers, it will help in your model's performance.
+**IMPORTANT: outliers are innocent until proven guilty.** You should never remove an outlier just because it’s a "big number." That big number could be very informative for your model.
+####  We can’t stress this enough:
+you must have a good reason for removing an outlier, such as suspicious measurements that are unlikely to be real data.
+
+### Handle Missing Data
+**You cannot simply ignore missing values in your dataset.**
+There is a practical reason behinf that: most algorithms do not accept missing values.
+**Common sense** is not sensible her.
+The two most commonly recommended ways of dealing with this type of problem are:
+  1.  **Dropping** observations that have missing values.
+      * This is really sub-optimal. Because when you **drop observations**, you **drop information.**
+        * The fact that the value was missing may be informative in itself.
+        * In the real world, you often need to make predictions on new data even if some of the features are missing!      
+  2-  **Imputing** the missing values based on the observations.
+      * This is also sub-optimal because because it mostly leats to a loss of information since you are not certain about the true exact value that is missing. 
+        * **"Missingness"** is almost always informative itself, and you should tell your algorithm if a value was missing.
+        * Even if you build a model to impute your values, you’re not adding any real information. **You’re just reinforcing the patterns already provided by other features.**
+
+####  If missing a value is informative, and I should always tell my algorithm. What can I do?
+  - **Missing categorical data:** In this case, the best is to label them as 'Missing'!
+    - You're essentially adding a *new class* for **the feature**.
+    - This **tells the algorithm** that the value was missing.
+    - This also gets around the technical requirement for no missing values.
+  - **Missing numeric data:** In this case, **flag and fill** the values.
+    - **Flag the observation** with an indicator variable of missingness.
+    - Then, **fill the original missing value** with 0 just to meet the technical requirement of no missing values.
+   
+#### *Doing data cleaning properly can really save you from a ton of headaches down the road, so please don't rush this step.*
