@@ -56,6 +56,7 @@ The most common categories of tasks are:
     * Often used either as a form of automated data analysis or automated signal extraction. Is used for **unlabeled data**.
     * It has **no predetermined correct answer**, so you allow it to learn patterns directly from the data (without supervision). 
       * **Clustering** is the most common unsupervised learning task, and it's for finding groups within your data.
+      
 ### The 3 Elements Of Great Machine Learning
  #### Human Guidance
   * Your guidance plays a huge roll, because you will need to **make dozens of decision along the way.**
@@ -89,3 +90,39 @@ The *ML* **Blueprint** is dessigned around **The 3 Elements Of Great ML**.
 #### Two key Takeaways To Remember:
   * Machine learning should not be haphazard and piecemeal. It should be systematic and organized.
   * Better data beats fancier algorithms.
+
+##  Chapter 2 - Exploratory Analysis
+For this chapter we will start completely diving into the first step of all the five steps of the process of modeling.
+This step should **NOT** be confused with data visualization or summary statistics. Those are merely tools that we have to achieve an end. **Proper exploratory analysis** is about answering questions. It's about **extracting enough insights** from your dataset to course correct before you get lost in the weeds.
+
+### Why Explroe Your Dataset Upfront?
+Your purpose here is to **"get to know"** the dataset. Doing this from an up-front approach have some advantages:
+  1.  You'll gain valuable hints for *data cleaning* (which can make or break your models).
+  2.  You'll think of ideas for *feature engineering* (which can take your models from good to great).
+  3.  You'll get a **"feel"** for the dataset (which will help you to communicate results and deliver greater impact).
+
+However, a **pretty important fact** is that exploratory analysis for *ML* should be **quick, efficient and decisive.**
+There are infinite possible plots, charts, and tables, but you only need a handful to **"get to know"** the data well enough to work with it. 
+
+#### Start With Basics
+The first and most basic questions you want to answer are:
+  - How many observations do I have?
+  - How many features?
+  - What are the data types of my features?
+  - Do I have a target variable?
+Then you want to display **example observations** from the dataset. This will give you a **"feel"** of the values in each feature and to see if everything makes sense. 
+**Example observation** is **NOT** for rigurous analysis, just to give you a **qualitative "feel"** of the dataset. here you should ask:
+  - Do the columns make sense?
+  - Do the values in those columns make sense?
+  - Are the values on the right scale?
+  - Based on this overview, is missing data going to be a big problem?
+
+####  Plot Numerical Distributions
+Often, a quick dirty grid of **histograms** is enough to understand the distribution.
+Here you should look out for: 
+  - Unexpected **distributions** 
+  - Potential **outliers**
+  - Features that **should be binary**
+  - Boundaries that don't make sense
+  - Potential measurement errors
+At this point, is pretty important that **you make notes and/or point out** potential fixes you'd like to make. This will be pretty useful when we reach our *data cleaning* stage. 
