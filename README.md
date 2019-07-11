@@ -1,11 +1,13 @@
 
 # Structure:
 ### The structure of the journey
-* Basic/Foundational knowledge.
-  * Starting to walk in certain direction.
-    * The roadmap and resources of my learning process.
-      * files, projects and personal stuff that could help you through your path. 
-
+* Understand the big picture.
+  * Know the full workflow process.
+    * First things first, focus on what matters.
+      * Master your creation with deliverate practice.
+        * Build connections by adding value with your work.
+          * Build a portfolio that leaves no doubt of your capacity.
+            * Start your career journey, now is time to effective and efficient management.
 # DS Straight Learning & Implementation:
 1. First of all we want to have the sufficient tools and knowledge to apply data science. So we will begin with some hard theory but that will be translated in the capacity to start doing data science projects right away.
    * *R* for Data Science (O'Reilly)
