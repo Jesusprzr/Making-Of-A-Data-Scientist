@@ -127,3 +127,35 @@ Here you should look out for:
   - Boundaries that don't make sense
   - Potential measurement errors
 At this point, is pretty important that **you make notes and/or point out** potential fixes you'd like to make. This will be pretty useful when we reach our *data cleaning* stage. 
+
+#### Plot Categorical Distributions
+Now, instead of **histograms**, we use **bar plots**.
+Particularly, you want to look out for **sparse classes** (have very small number of observations).
+A **class** is a unique value for a categorical feature.
+You want to look out for **sparse classes** because those tend to be problematic when building a model.
+  - In the best case they don't influence the model much
+  - In the worse case, they can **overfit** the model and game over. 
+Here you want to **make a note** to *combine* or *reassign* some of these classes later (on *feature engineering*). 
+
+#### Plot Segmentation
+These are powerful ways to **observe the relationship between categorical and numerical features**.
+**Box Plots** Allow us to do so, they have some interesting indicators such as:
+  * The median
+  * The min and max 
+  * Inter Quartile Range
+These are pretty important to make a comparisson between different types of variables and suggest possible data truncation, outliers, skewed patters, clusters, etc. This is very important when **assessing the generalizability of your models later!**
+#### Study correlations 
+Correlation allows you to **observe the relationship between numeric features.**
+What you need to know about correlation:
+  * **Positive** correlation means that as one feature increases, the other increases. 
+  * **Negative** correlation means that as one feature increases, the other decreases. 
+  * Correlations near -1 or 1 indicate a **strong relationship.**
+  * Those closer to 0 indicate a **weak relationship.**
+  * 0 indicates **no relationship.**
+  * Correlation **headmaps**  allow you to visualize this information.
+#### In general you should look out for:
+   * Which features are **strongly correlated** with the **target variable?**
+   * Are there **interesting or unexpected strong** correlations between other features?
+
+Remember that your aim here is to **gain intuition** about the data. 
+By the end of your Exploratory Analysis step, you'll have a pretty good understanding of the dataset, some notes for data cleaning, and possibly some ideas for feature engineering.
