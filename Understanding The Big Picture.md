@@ -68,3 +68,24 @@ The most common categories of tasks are:
   * An overfit model within a hedge fund can cost millions of dollars in losses.
   * An overfit model within a hospital can costs thousands of lives.
   * For most applications, the stakes won't be quite that high, but **overfitting is still the single largest mistake you must avoid.**
+
+### The Machine Learning Blueprint
+The *ML* **Blueprint** is dessigned around **The 3 Elements Of Great ML**.
+  1.  **Exploratory Analysis**
+      - **Get to know the data.** This step should be quick, efficient, and decisive.
+  2.  **Data Cleaning**
+      - **Clean the data to avoid many common pitfalls.** Better data beats fancier algorithms.
+  3.  **Feature Engineering**
+      - **Help your algorithms focus on what's important** by creating new features.
+  4.  **Algorithm Selection**
+      - **Choose the best, most appropriate algorithms** without wasting your time.
+  5.  **Model Training**
+      - Finally, **train your models.** This step is pretty formulaic once you've done the first 4.
+#### Other situational steps
+  - **Project Scoping:** roadmap the project and anticipate data needs.
+  - **Data Wrangling:** restructure your dataset into a format that algorithms can handle.
+  - **Preprocessing:** often, transforming your features first can further improve performance.
+  - **Ensembling:** you can squeeze out even more performance by combining multiple models.
+#### Two key Takeaways To Remember:
+  * Machine learning should not be haphazard and piecemeal. It should be systematic and organized.
+  * Better data beats fancier algorithms.
