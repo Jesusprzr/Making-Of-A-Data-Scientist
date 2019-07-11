@@ -176,13 +176,13 @@ Because a simple boolean statement:
 
 Don't get it yet? try reasoning with this, we already mentioned it:
 
-*>>> input = garbage:*
+*>>> input = 'garbage'*
 
 *>>> output = input*
 
-*>>> output*
+*>>> print(output)*
 
-*'garbage'*
+*garbage*
 
 ####  Remember this because if we reiterate over it that much is for something:
   - Garbage in gets you garbage out.
@@ -287,6 +287,16 @@ With this, what you acheive is to pass the techniqual requirements for algorithm
 Like assigning a dummy variable (0 or 1) to each categorical variable in the example above.
 
 ### Remove Unused Features
+Unused features are those that don’t make sense to pass into our machine learning algorithms. Examples include:
+  * ID columns
+  * Features that wouldn't be available at the time of prediction
+  * Other text descriptions
 
+**Redundant features** would typically be those that have been replaced by other features that you’ve added during feature engineering.
 
+### ABT
+When we have completed our *data cleaning* and our *feature engineering* we have just transformed our raw data into an **analytical base table (ABT).** This is called that way because here we will be **building our models on.**
 
+**As a final tip:** You’ll often find that many of the features you engineer don’t improve your model. That’s fine because one highly predictive feature makes up for 10 duds.
+The key is choosing machine learning algorithms that can **automatically select the best features among many options (built-in feature selection).**
+This will allow you to **avoid overfitting** your model despite providing many input features.
