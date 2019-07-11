@@ -176,13 +176,13 @@ Because a simple boolean statement:
 
 Don't get it yet? try reasoning with this, we already mentioned it:
 
-*>>> input = garbage*
+*>>> input = garbage:*
 
-*>>> output = garbage*
+*>>> output = input*
 
-*>>> input == output*
+*>>> output*
 
-*True*
+*'garbage'*
 
 ####  Remember this because if we reiterate over it that much is for something:
   - Garbage in gets you garbage out.
