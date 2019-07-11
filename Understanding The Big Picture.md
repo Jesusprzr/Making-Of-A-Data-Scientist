@@ -236,3 +236,44 @@ The two most commonly recommended ways of dealing with this type of problem are:
     - Then, **fill the original missing value** with 0 just to meet the technical requirement of no missing values.
    
 #### *Doing data cleaning properly can really save you from a ton of headaches down the road, so please don't rush this step.*
+
+##  Chapter 4 - Feature Engineering
+Remember that of the process of doing *ML* this is the part on which *DS's* spend more time.
+Feature engineering is about **creating new input features from your existing ones.**
+You can remember it as:
+
+*Data Cleaning = Subtraction*
+
+*Data Engineering = Addition*
+
+There are three reasons why this is one of the most valuable tasks a *DS* can do to improve their project:
+  - You can **isolate and highlight key information**, which helps your algorithms "focus" on what’s important.
+  - You can bring in your **own domain expertise.**
+  - once you understand the "vocabulary" of feature engineering, you can bring in **other people’s domain expertise!**
+
+Now we are going to introduce several **heuristics** that can help spark new ideas.
+
+### Infuse Domain Knowledge
+You can **engineer informative features** by tapping into your/others **expertise about the domain.**
+Try to think of specific information you might want to **isolate.** Since here you have a lot of freedom, it is better if you have a certain **"domain knowledge"** of where you are stepping into. 
+As you might suspect, "domain knowledge" is very broad and open-ended. At some point, you'll get stuck or exhaust your ideas.
+That's where these next few steps come in. These are a few **specific heuristics** that can help spark more.
+
+####  Create Interaction Features
+This means to check if you can create any **interaction features that make sense.** These are combinations of two or more features.
+By the way, in some contexts, "interaction terms" must be **products between two variables.** In our context, interaction features can be **products, sums, or differences between two features**
+You can ask yourself:*"could I combine this information in any way that might be even more useful?"*
+A simple example could be:
+  * Let's say we already had a feature called 'num_schools', i.e. the number of schools within 5 miles of a property.
+  * Let's say we also had the feature 'median_school', i.e. the median quality score of those schools.
+  * However, we might suspect that what's really important is having many school options, but only if they are good.
+  * Well, to capture that interaction, we could simple create a new feature 'school_score' = 'num_schools' x 'median_school' 
+
+### Combine Sparse Classes
+Since they can cause overfitting, it is good to consider grouping **sparse classes**.
+  - There's no formal rule of how many each class needs.
+  - It also depends on the size of your dataset and the number of other features you have.
+  - As a rule of thumb, we recommend combining classes until each one has at least ~50 observations. As with any "rule" of thumb, use this as a guideline (not actually as a rule).
+![SparseClasses](https://elitedatascience.com/wp-content/uploads/2017/06/grouping-sparse-classes-before.png)
+![CombinedSparseClasses](https://elitedatascience.com/wp-content/uploads/2017/06/grouping-sparse-classes-after.png)
+
