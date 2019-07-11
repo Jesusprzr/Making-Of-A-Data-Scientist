@@ -110,6 +110,7 @@ The first and most basic questions you want to answer are:
   - How many features?
   - What are the data types of my features?
   - Do I have a target variable?
+#### Example Observations
 Then you want to display **example observations** from the dataset. This will give you a **"feel"** of the values in each feature and to see if everything makes sense. 
 **Example observation** is **NOT** for rigurous analysis, just to give you a **qualitative "feel"** of the dataset. here you should ask:
   - Do the columns make sense?
