@@ -6,10 +6,10 @@ Let's start by breaking the whole puzzle into peaces and then, diving a little d
 
 ### What goes into a succeful model:
 The process can be structured into a few steps. I won't enummerate it, because depending on the situation you might start by one or another and then jump back and forward between them. I'll just put first the steps that normally come first.
-  *  Exploratory Analysis
-  *  Data Cleaning
-  *  Feature Engineering
-  *  Algorithm Selection
-  *  Model Training
-  * Other
+  *  Exploratory Analysis (10%)
+  *  Data Cleaning (20%)
+  *  Feature Engineering (25%)
+  *  Algorithm Selection (10%)
+  *  Model Training (15%)
+  *  Other (20%)
   
