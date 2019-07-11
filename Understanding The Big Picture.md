@@ -259,7 +259,7 @@ Try to think of specific information you might want to **isolate.** Since here y
 As you might suspect, "domain knowledge" is very broad and open-ended. At some point, you'll get stuck or exhaust your ideas.
 That's where these next few steps come in. These are a few **specific heuristics** that can help spark more.
 
-####  Create Interaction Features
+###  Create Interaction Features
 This means to check if you can create any **interaction features that make sense.** These are combinations of two or more features.
 By the way, in some contexts, "interaction terms" must be **products between two variables.** In our context, interaction features can be **products, sums, or differences between two features**
 You can ask yourself:*"could I combine this information in any way that might be even more useful?"*
@@ -276,4 +276,17 @@ Since they can cause overfitting, it is good to consider grouping **sparse class
   - As a rule of thumb, we recommend combining classes until each one has at least ~50 observations. As with any "rule" of thumb, use this as a guideline (not actually as a rule).
 ![SparseClasses](https://elitedatascience.com/wp-content/uploads/2017/06/grouping-sparse-classes-before.png)
 ![CombinedSparseClasses](https://elitedatascience.com/wp-content/uploads/2017/06/grouping-sparse-classes-after.png)
+Now we have fewer unique classes, but with more observations on each.
+Normally, a **quick overview** is enough to decide on whether or not combine certain classes together.
+
+### Add Dummy Variables
+Most *ML* algorithms can't handle categorical variables, especially text values.
+What we do in this case is create **dummy variables**.
+These are a set of **binary variables** that each represent a single class from a categorical feature.
+With this, what you acheive is to pass the techniqual requirements for algorithms while equally representing our categorical features.
+Like assigning a dummy variable (0 or 1) to each categorical variable in the example above.
+
+### Remove Unused Features
+
+
 
