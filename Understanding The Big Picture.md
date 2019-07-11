@@ -41,7 +41,7 @@ We want to develop our practical intuition. For this matter, we should know the 
  * **Observations** - Data points (rows) in the dataset.
 
 ### Machine Learning Tasks
-In applied *ML* you should first of all pick the right *__Ml* task__ for the job.
+In applied *ML* you should first of all pick the right **_Ml_ task** for the job.
  * A **task** is an specific objetive for your algorithm. 
  * You can swap algorithms in and out as long as you **pick the right task**.
  * You normally want to **perform multiple algorithms** to know which one will perform best for your dataset.
