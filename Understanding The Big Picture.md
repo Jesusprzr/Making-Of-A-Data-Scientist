@@ -302,6 +302,7 @@ The key is choosing machine learning algorithms that can **automatically select 
 This will allow you to **avoid overfitting** your model despite providing many input features.
 
 ##  Chapter 5 - Algorithm Selection
+Most effective algorithms that leverage two specific, powerful mechanisms.
 We are going straight into best practices, instead on looking at a big list of algorithms.
 
 ###  How To Pick Machine Learning Algorithms 
@@ -374,7 +375,30 @@ General Ensembling = Bagging and Boosting
 
 Decision Tree Ensembling = Random Forest and Boosted Trees
 
+#### Random Forests
+Does what bagging does. In addition there are two sources of randomness:
+  1. Each tree is only allowed to choose from a random subset of features to split on (leading to feature selection).
+  2. Each tree is only trained on a random subset of observations (a process called resampling).
 
-    
+On the pragmatical approach, random forests tend to perform really well right out of the box.
+  - Often beat many other models that take up to weeks to develop.
+  - They are the perfect **"swiss-army-knife"** algorithm that almost always gets good results.
+  - They don’t have many complicated parameters to tune.
+
+####  Boosted trees
+Does what boosting does.
+
+In practice, they tend to have the highest performance ceilings.
+  - They often beat many other types of models after proper tuning.
+  - They are more complicated to tune than random forests.
+
+####  Key takeaway
+The most effective algorithms typically offer a combination of regularization, automatic feature selection, ability to express nonlinear relationships, and/or ensembling. Those algorithms include:
+  * Lasso regression
+  * Ridge regression
+  * Elastic-Net
+  * Random forest
+  * Boosted tree
+ 
 
   
