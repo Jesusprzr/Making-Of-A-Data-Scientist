@@ -168,21 +168,17 @@ The steps and techniques for data cleaning vary from dataset to dataset. Here, w
 Proper data cleaning can make or break your project. This is why professional *DS* spend a very large portion of the time on this step.
 Because a simple boolean statement:
 
-*>>> Better Data > Fancier algorithms*
-
-*True*
+    >>> Better Data > Fancier algorithms
+    True
 
 **_Congratulations, you just learned python boolean expressions!_**
 
 Don't get it yet? try reasoning with this, we already mentioned it:
 
-*>>> input = 'garbage'*
-
-*>>> output = input*
-
-*>>> print(output)*
-
-*garbage*
+    >>> input = 'garbage'
+    >>> output = input
+    >>> print(output)
+    garbage
 
 ####  Remember this because if we reiterate over it that much is for something:
   - Garbage in gets you garbage out.
@@ -550,15 +546,43 @@ Now you'll see how many **regression** algorithms have its categorical counterpa
 #### 2.1 - (Regularized) logistic regression
 As you already guessed, is the classification counterpart of **linear regression.** Here we map predictions by 0 and 1 (binary), which means that we can interpret them as class probabilities.
 
-This models themselves are still linear, so they work well when your classes are linearly separated.
+This models themselves are still linear, so they work well when your classes are linearly separable (i.e. separated by a single decision surface). As **linear**, **logistic regression** can be regularized by penalizing coefficients with a tuneable penalty strenght.
+  * **Strenghts:** Outputs have a nice probabilistic interpretation, and we can regularize the algo to avoid overfitting. It can be easily updated with stochastic gradient descent.
+  * **Weaknesses:** It tends to underperform when there is are multiple or non-linear decision boundaries. Since they are not much flexible, they can't capture more complex relationships naturally.  
+  * **Implementations:** Python/R
+
+#### 2.2 - Classification Trees (Ensembles)
+Counterpart of **regression trees.** Both are called **"decision trees"** or **"classification and regression trees (CART)"**.
+  * **Strenghts:** Perform really well in practice. Robust to outliers, scalable, and able to naturally model non-linear relatinships, which allows them to train on more complex patterns.
+  * **Weaknesses:** Unconstrained, individual trees proned to overfitting, alleviated by **ensemble**. 
+  * **Implementations:** RF: Python/R GBM: Python/R
+
+#### 2.3 - Deep Learning
+Easily adapted to classification problems. This is often the **most common use of deep learning.** 
+  * **Strenghts:** performs very well when classifying for audio, text, and image data.
+  * **Weaknesses:** require very large amounts of data to train, so it's not treated as a general-purpose algorithm.
+  * **Implementations:** Python/R
+
+#### 2.4 - Support Vector Machines
+**SVM** use a mechanism called **Kernels**, which essentially calculate distance between two observations. The **SVM** algorithm then finds a decision boundary that maximizes the distance between the closest members of separated classes.
+
+an **SVM** with a linear **kernel** is similar to logistic regression. Therefore, in practice, the benefit of **SVM's** typically comes from using **non-linear kernels** to model **non-linear decision boundaries.**
+  * **Strenghts:** They can model non-linear decision boundaries, and there are many **kernels** to choose from. Fairly  robust againts overfitting, specially in **high-dimensional space.**
+  * **Weaknesses:** Memory intensive, trickier to tune due to the importance of picking the right kernel and as you should have guessed, don't scale well to large datasets. Currently **RF's** are preferred over **SVM's.**  
+  * **Implementations:** Python/R
+
+#### 2.5 - Naive Bayes
+**NB**, very simple algorithm based on conditional probability and counting. Is essentially a probability table that gets updated through your training data. To predict a new observation, you'll simply "look up" the class probabilities in your probability table based on its feature values. 
+
+It's called "naive" because its core assumption of conditional independence (i.e. all input features are independent from one another) rarely holds true in the real world.
+  * **Strenghts:** For our surprise, besides of the fact that conditional independence rarely holds true, the model actually performs really well in practice. This is specially thanks to its simplicity. They are easy to implement and can scalle with your dataset.
+  * **Weaknesses:** Due to its simplicity, these models are often outperformed by properly trained and tuned models usign the previous algorithms listed.
+  * **Implementations:** Python/R
+  
   * **Strenghts:**
-  * **Weaknesses:**
+  * **Weaknesses:** 
   * **Implementations:**
-
- * **Strenghts:**
-  * **Weaknesses:**
-  * **Implementations:**
-
- * **Strenghts:**
-  * **Weaknesses:**
+  
+  * **Strenghts:**
+  * **Weaknesses:** 
   * **Implementations:**
