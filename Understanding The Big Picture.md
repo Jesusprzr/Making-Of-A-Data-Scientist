@@ -300,3 +300,80 @@ When we have completed our *data cleaning* and our *feature engineering* we have
 **As a final tip:** You’ll often find that many of the features you engineer don’t improve your model. That’s fine because one highly predictive feature makes up for 10 duds.
 The key is choosing machine learning algorithms that can **automatically select the best features among many options (built-in feature selection).**
 This will allow you to **avoid overfitting** your model despite providing many input features.
+
+##  Chapter 5 - Algorithm Selection
+We are going straight into best practices, instead on looking at a big list of algorithms.
+
+###  How To Pick Machine Learning Algorithms 
+Now we are going to learn a few essential concepts. We will do this with five algos. The idea here is that by understanding these concepts (regularization, ensembling, automatic feature selection, etc.) we also get to understand **why** some algorithms tend to perform better thand others.
+Since algorithms are implemented and eliminated based on **how they perform on the dataset and the problem**, we are going to focus on **intuition** and **practical benefits.**
+
+### Why Linear Regression Is Flawed
+Yes, it's easy to interpret and understand, but in practice the rarely perform well. 
+Our goal is **NOT** to do a fancy report, but instead to build a model that can make accurate predictions.
+In terms of accuracy on predicting, *simple linear regression* suffers from two major flaws:
+  - Thend to **overfit** with many input features.
+  - it **cannot** easily express non-linear relationships.
+ 
+How can we address this flaws?
+### Regularization In Machine Learning
+The first flaw of linear models is that they are prone to be overfit with many input features.
+Regularization is a technique used to **prevent overfitting** by **artificially penalizing model coefficients.**
+  * It can discourage large coefficients (by dampening them).
+  * It can also remove features entirely (by setting their coefficients to 0).
+  * The "strength" of the penalty is tunable. (More on this tomorrow...)
+  
+### Regularized Regression Algos
+We have three common types of regularized linear regression algos:
+  - **Lasso regression:** **L**east **A**bsolute **S**hrinkage and **S**election **O**perator. 
+    * Penalizes the **absolute size** of coefficients.
+    * This leads to coefficients that are pushed towards practically zero.
+    * It offers **automatic feature selection** because it can compeltely remove some features.
+    * The **"strenght"** of the penalty should be tuned.
+    * A strong penalty leads to more coefficients pushed to zero.
+  - **Ridge Regression:** 
+    * Penalizes the **square size** of the coefficients.
+    * This leads to smallesr coefficients but not to zero.
+    * So, it offers **feature shrinkage.**
+    * the **"strength"** of the penalty should be tuned.
+    * A stronger penalty leads to coefficients pushed closer to zero.
+  - **Elastic-Net:** is a compromise between **Lasso** and **Ridge.**
+    * Penalizes a mix of both **absolute and squared size.**
+    * The **ratio** of the two penalty types should be tuned.
+    * The overall strength should also be tuned.
+  The type of penalty depends on the problem and dataset. We'll be going over it later on...
+  
+### Decision Tree Algos
+Now we are going to adress the second major flaw of **S.L.R:**
+
+Expressing non-linear relationships require other type of algorithm. This time the pick is a **tree of hierarchical branches.** It makes branches until reaches "leaves" that represent predictions.
+
+A **reversal of correlation** is difficult for linear models to capture unless you explicitly add an interaction term (i.e. you can anticipate it ahead of time). Decision trees can capture this relationship naturally.
+
+Unfortunately, decision threes have another major flaw: individual **unconstrained** decision trees are very prone to being overfit. So, **how do we use decision trees without overfitting?
+
+### Tree Ensembles
+**Ensembles** are *ML* methods used to combine predictions from multiple separate models. The two most common methods for ensembling are:
+  - **Bagging:** attempts to reduce the change of overfitting complex models.
+    * Trains a large number of **"strong" learners** in parallel.
+    * A **strong learner** is a model that is relatively unconstrained.
+    * Then. bagging combines all the **strong learners** together in order to *smooth out* their predictions. 
+  - **Boosting:** attempts to improve the predictive flexibility of simple models. 
+    * Trains a large number of **'weak' learners** in sequence.
+    * A **weak learner** is a constrained model (i.e. you could limit the max depth of each decision tree).
+    * Each one on the sequence centers on learning from the mistakes of the one before it.
+    * Boosting then combines all the weak learners into a single strong learner.
+
+Comparing them:
+  - Both are ensemble methods.
+  - Both approach the problem from opposite directions.
+  - Bagging -> complex base models -> smooth out predictions.
+  - Boosting -> simple base models -> boost their aggregate complexity.
+ 
+General Ensembling = Bagging and Boosting
+Decision Tree Ensembling = Random Forest and Boosted Trees
+
+
+    
+
+  
