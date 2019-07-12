@@ -1,6 +1,6 @@
 
 # Structure:
-### The structure of the journey
+### Self Creation Structure:
  1. Understand the big picture.
  2. Know the full workflow process.
  3. First things first, focus on what matters.
