@@ -1,13 +1,14 @@
 
 # Structure:
 ### The structure of the journey
-* Understand the big picture.
-  * Know the full workflow process.
-    * First things first, focus on what matters.
-      * Master your creation with deliverate practice.
-        * Build connections by adding value with your work.
-          * Build a portfolio that leaves no doubt of your capacity.
-            * The door is open, cross it. Time for effective and efficient management.
+ 1. Understand the big picture.
+ 2. Know the full workflow process.
+ 3. First things first, focus on what matters.
+ 4. Master your creation with deliverate practice.
+ 5. Build connections by adding value with your work.
+ 6.  Build a portfolio that leaves no doubt of your capacity.
+ 7. The door is open, cross it. Time for effective and efficient management.
+
 # DS Straight Learning & Implementation:
 1. First of all we want to have the sufficient tools and knowledge to apply data science. So we will begin with some hard theory but that will be translated in the capacity to start doing data science projects right away.
    * *R* for Data Science (O'Reilly)
