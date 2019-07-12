@@ -400,5 +400,22 @@ The most effective algorithms typically offer a combination of regularization, a
   * Random forest
   * Boosted tree
  
+## Chapter 6 - Model Training
+Now we are going throught the model training process with some of the considered best practices on the field.
 
-  
+### How To Train Machine Learning Models
+Remember that professional *DS's* spend most of their time on the stages that lead to this point:
+  - Exploring the data
+  - Cleaning the data
+  - Engineering new features
+
+This is because of our dear boolean: *Better Data > Fancier Algos*
+Now, what we will do is learn how to set up the entire modeling process to **maximize performance** while **safeguarding against overfitting.** We will swap algorithms in and out and automatically find the best parameters for each one.
+
+### Split Dataset 
+A.K.A. Spending your data. Think of it as limited resources:
+  - You **can** spend some of it to train your model (i.e. feed it to the algorithm). 
+  - You **can** spend some of it to evaluate (test) your model.
+  - But you **can’t** reuse the same data for both!
+A model should be used to predict new unseen data. If you use the same data for both you could overfit the model without even knowing!
+So, have separated sets of your data. One for training (fit and tune) and the other ("unseen") for testing your models.
