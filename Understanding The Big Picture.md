@@ -514,7 +514,7 @@ Is the supervised learning task for modeling and predicting **continuos, numeric
 These tasks are caracterized for having **labeled datasets that have a numeric target variable.**
 So you have values of each observation that you can use to **supervise** your algorithm.
 
-### 1.1 - (Regularized) Linear Regression
+#### 1.1 - (Regularized) Linear Regression
 It attemps to fit a straight hyperplane or line (when have only two vars). It works well when there is a linear relationship between your variables.
 
 In practice simple linear regression is simply outcassed by its regularized versions (LASSO, Ridge, and Elastic-Net).
@@ -523,19 +523,42 @@ Regularization is a technique utilized for penalizing large coefficients in orde
   * **Weaknesses:** Performs poorly when there is non-linear relationship. It is **not** naturally flexible enough to capture more compplex patterns. Also adding the right interaction terms of polynomials can be tricky and time-consuming.
   * **Implementations:** Python/R
   
-### 1.2 - Regression Trees (Ensembles)
+#### 1.2 - Regression Trees (Ensembles)
 A.K.A. Decision trees, a tree like branching structure that allows it to fit non-linear relationships.
 
 Ensamble method, such as **Random Forests (RF)** and **Gradient Boosted Trees (GBM)**, combine predictions from many individual trees. **RF's** perform very well out of the box, while **GBM's** are harder to tune but tend to have **higher performance ceilings.**
   * **Strenghts:** They **can** learn non-linear relationships and are fairly **robust** to outliers. Ensembles perform really well in practice! They win lots of *ML* competitions (non-deep-learning).
   * **Weaknesses:** Unconstrained, individual trees are prone to overfitting because they **can keep branching** until they memorize the training data. <- This can ve alleviated by using **ensembles.**
   * **Implementations:** RF: Python/R GBM: Python/R
-### 1.3 - Deep Learning
+#### 1.3 - Deep Learning
+**Multi-layer neural networks** that can learn extremely complex patterns.
+They use "hidden layers" between inputs and outputs in order to model **intermediary representations** of the data that other olgarithms can't easily learn.
 
+They can learn from high-dimensional data thanks the mechanisms they have (such as convolutions and drop-out). The pitfall is that it requires so much more data than other algorithms to train. Because the model has orders of magnitudes, so more parameters to stimate.
+  * **Strenghts:** Literally current state of the art for certain domains. They perform really well on computer vision, speech recognition, image, audio, and text data. They can be easily updated with new data using **batch propagation.** Their architectures can be adapted to many types of problems, and their **hidden layers** reduce the need for feature engineering.
+  * **Weaknesses:** Usually **not** suitable as general purpose algorithms because they require a really large amount of data. For **classical ML** are usually outperformed by **tree ensembles.** Another thing is that they are computationally heavy to train and require a lot mor eexpertise to tune. 
+  * **Implementations:** Python/R
+#### 1.4 - Honorable Mention: Nearest Neighbors
+These are **instance-based** algorithms = they save each training observation. They then make predictions for new observations by searching for the most similar training observations and pooling their values.
+
+Since this algoritms are memory-intensive, they tend to perform bad in high-dimensional data, and require a meaningful distance function to calculate similarity. This is why in practice training regularized regression or tree ensembles are almot always better uses of your time. 
+
+### 2 - Classification
+Is like **regression**, the supervised learning task **BUT** this one is used for predicting **categorical variables.**
+Now you'll see how many **regression** algorithms have its categorical counterparts. The algorithms are adapted to predict descriptive variables (a class) intead of quantitative ones.
+
+#### 2.1 - (Regularized) logistic regression
+As you already guessed, is the classification counterpart of **linear regression.** Here we map predictions by 0 and 1 (binary), which means that we can interpret them as class probabilities.
+
+This models themselves are still linear, so they work well when your classes are linearly separated.
   * **Strenghts:**
   * **Weaknesses:**
   * **Implementations:**
-  
-  * **Strenghts:**
+
+ * **Strenghts:**
+  * **Weaknesses:**
+  * **Implementations:**
+
+ * **Strenghts:**
   * **Weaknesses:**
   * **Implementations:**
