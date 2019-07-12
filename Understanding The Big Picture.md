@@ -326,7 +326,7 @@ Regularization is a technique used to **prevent overfitting** by **artificially 
   
 ### Regularized Regression Algos
 We have three common types of regularized linear regression algos:
-  - **_Lasso_ regression:** **_L_**east **_A_**bsolute **_S_**hrinkage and **_S_**election **_O_**perator. 
+  - **Lasso regression:** **L**east **A**bsolute **S**hrinkage and **S**election **O**perator. 
     * Penalizes the **absolute size** of coefficients.
     * This leads to coefficients that are pushed towards practically zero.
     * It offers **automatic feature selection** because it can compeltely remove some features.
