@@ -579,6 +579,22 @@ It's called "naive" because its core assumption of conditional independence (i.e
   * **Weaknesses:** Due to its simplicity, these models are often outperformed by properly trained and tuned models usign the previous algorithms listed.
   * **Implementations:** Python/R
   
+### 3 - Clustering
+Unsupervised learning task for finding natural groupings of observations (i.e. clusters) based on the inherent structure within the dataset. 
+Because it is unsupervised, there is no "right answer", data visualization is usually used to evaluated the results. If there is a "right answer" (i.e. prelabed clusters), then classification algorithms are more appropiate.
+
+#### 3.1 - K-Means
+General pusporse algo taht makes clusters based on geometric distance between points. The clusters are grouped around **centroids**, causing them to be globular and have same sizes. This alg is **recommended for begginers.** 
+  * **Strenghts:** Is the most popular clustering algorithm because its fast, simple, and surprisingly flexible if you pre-process your data an engineer useful features.
+  * **Weaknesses:** The user **must** specify the mumber of clusters, something that won't be easy to do all the time. Another thing is that if the true underlying clusters in your data are **not globular**, the **K-Means** will produce poor clusters. 
+  * **Implementations:** Python/R
+  
+#### 3.2 - Afinity Propagation
+Makes clusters based on graph distances between points. The clusters tend to be smaller and have uneven sizes.
+  * **Strenghts:** The user **doesn't** need to specify the number of clusters (but does need to specify 'sample preference' and 'damping' hyperparameters).
+  * **Weaknesses:** Its quite slow and memory-heavy, which makes it difficult to scale to larger datasets. Also it assumes the true underlying clusters are globular.
+  * **Implementations:** Python/R
+
   * **Strenghts:**
   * **Weaknesses:** 
   * **Implementations:**
