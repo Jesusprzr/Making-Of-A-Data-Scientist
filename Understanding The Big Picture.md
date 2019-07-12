@@ -493,3 +493,20 @@ The overall process:
   * Did it also have (one of) the best cross-validated scores from the training set? (consistency)
   * Does it solve the original business problem? (win condition)
 
+# Modern Machine Learning Algorithms
+We will categorize our algorithms by *ML task*. This approach is focused on what's usually the end goal of all. Which is the expected result! It could be something like predicting an outcome or classifying our observations.
+
+##  No Free Lunch Theorem
+This is a theorem that states that no algorithm works best for every problem. This is specially relevant for supervised learning (i.e. predictive modeling). There are many factors at play to already state which algorithm is the best. This is why you should **try many different algirithms for your problem**. Of course, the algorithms you try should be appropiated for your problem, and that's when picking the right machine learning task comes in.
+
+## Machine Learning Tasks
+Here we'll cover the big three:
+  - Regression
+  - Classification
+  - Clustering
+  
+Another think to take in count:
+  * We will not cover domain specific adaptations.
+  * We will not cover every algorithm. What this list will give you is representative overview of successful contemporary algorithms for each task.
+
+### Regression
