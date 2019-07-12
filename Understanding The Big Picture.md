@@ -417,5 +417,79 @@ A.K.A. Spending your data. Think of it as limited resources:
   - You **can** spend some of it to train your model (i.e. feed it to the algorithm). 
   - You **can** spend some of it to evaluate (test) your model.
   - But you **can’t** reuse the same data for both!
+
 A model should be used to predict new unseen data. If you use the same data for both you could overfit the model without even knowing!
 So, have separated sets of your data. One for training (fit and tune) and the other ("unseen") for testing your models.
+  - You should always split your data before doing anything else.
+  - This is the best way to get reliable estimates of your models’ performance.
+  - After splitting your data, **don’t touch your test set** until you’re ready to choose your final model!
+
+Comparing test Vs Training performance allows us to know if the model is overfitted. 
+
+    >>> if model in training_data == well and if model in test == poor:
+          Overfit = True
+          
+### What Are Hyperparameters
+When we say 'tuninng models' we **specifically** mean 'tuning hyperparameters'.
+There are two types of models:
+  1.  **Model Parameters:** learned attributes that define individual models.
+      * e.g. regression coefficients
+      * e.g. decision tree split locations
+      * They **CAN** be learned directly from the training data.
+  2.  Hyperparameters:  express "higher-level" structural settings for algorithms.
+      * e.g. strength of the penalty used in regularized regression
+      * e.g. the number of trees to include in a random forest
+      * **CAN'T** learn directly from the training data, that's why we tune them before fitting the model. 
+      
+### What Is Cross-Validation?
+is a method for getting a reliable estimate of model performance using only your training data.
+The most common way to cross-validate is called **10-fold cross-validation**, breaks your data into 10 equal folds, essentially creating 10 miniature train/test splits. 
+
+These are the steps for 10-fold cross-validation:
+  1. Split your data into 10 equal parts, or "folds".
+  2. Train your model on 9 folds (e.g. the first 9 folds).
+  3. Evaluate it on the 1 remaining **"hold-out"** fold.
+  4. Perform steps (2) and (3) 10 times, each time holding out a different fold.
+  5. Average the performance across all 10 **hold-out** folds.
+     -  This average is your **cross-validated score**. This score is usually pretty reliable.
+     
+### Fit And Tune Models
+Now that we have done all of this, we are ready to fit out model.
+What we do now. is perform the entire cross-validation loop detailed above in each set of hyperparameter values we'd like to try. 
+The high level pseudo code looks like this:
+      
+    for each algorithm (i.e. regularized regression, random forest, etc.):
+      for each set of hyperparameter values to try:
+        perform cross-validation using the training set.
+        calculate cross-validation score.
+        
+At the end of this process you will have a cross-validation score for each set of hyperparameters, for each algorithm.
+
+Then we pick the best set of hyperparameters within each algorithm:
+
+    for each algorithm:
+      keep the set of hyperparameter values with best cross-validated score.
+      Re-train the algorithm on the entire training set (without cross-validation).
+
+Like the hunger games, each district(algorithm) sends their candidates to the final selection, which is coming up next.
+
+### Select Winning Model
+For now, we have two remarkable achievements to point:
+  - We have **one** best model for each algorithm that has been tuned throught cross-validation.
+  - We've **only** used the training data so far.
+  
+Since we haven't used the **test dataset**, this will be the perfect scenario for our final hunger games. It will give us a reliable estimate of each model's performance. 
+There are a variety of these, but in general for **performance metric** we will recommend:
+  - {For **regression** tasks **Mean Squared Error(MSE)** or **Mean Absolute Error (MAE)**.} -> lower values are better
+  - {For **classification** tasks **Area Under ROC Curve (AUROC)**.} -> Higher values are better
+  
+The overall process:
+  - For each of your models, make predictions on your test set.
+  - Calculate performance metrics using those predictions and the "ground truth" target variable from the test set.
+
+####  Finally, use these questions to help you pick the winning model:
+  * Which model had the best performance on the test set? (performance)
+  * Does it perform well across various performance metrics? (robustness)
+  * Did it also have (one of) the best cross-validated scores from the training set? (consistency)
+  * Does it solve the original business problem? (win condition)
+
