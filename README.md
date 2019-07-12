@@ -5,8 +5,8 @@
  2. Know the full workflow process.
  3. First things first, focus on what matters.
  4. Master your creation with deliverate practice.
- 5. Build connections by adding value with your work.
- 6.  Build a portfolio that leaves no doubt of your capacity.
+ 5. Build a portfolio that leaves no doubt of your capacity.
+ 6. Build connections by adding value with your work or knowledge.
  7. The door is open, cross it. Time for effective and efficient management.
 
 # DS Straight Learning & Implementation:
