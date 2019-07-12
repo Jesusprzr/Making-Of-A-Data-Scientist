@@ -501,12 +501,41 @@ This is a theorem that states that no algorithm works best for every problem. Th
 
 ## Machine Learning Tasks
 Here we'll cover the big three:
-  - Regression
-  - Classification
-  - Clustering
+  1. Regression
+  2. Classification
+  3. Clustering
   
 Another think to take in count:
   * We will not cover domain specific adaptations.
   * We will not cover every algorithm. What this list will give you is representative overview of successful contemporary algorithms for each task.
 
-### Regression
+### 1 - Regression
+Is the supervised learning task for modeling and predicting **continuos, numeric** variables.
+These tasks are caracterized for having **labeled datasets that have a numeric target variable.**
+So you have values of each observation that you can use to **supervise** your algorithm.
+
+### 1.1 - (Regularized) Linear Regression
+It attemps to fit a straight hyperplane or line (when have only two vars). It works well when there is a linear relationship between your variables.
+
+In practice simple linear regression is simply outcassed by its regularized versions (LASSO, Ridge, and Elastic-Net).
+Regularization is a technique utilized for penalizing large coefficients in order to avoid overfitting, and the strenght of the penalty should be tuned.
+  * **Strenghts:** Is straightforward to understand and explain, and **can** be regularized to avoid overfitting. It also can be updated easily with new data using **stochastic gradient descent.**
+  * **Weaknesses:** Performs poorly when there is non-linear relationship. It is **not** naturally flexible enough to capture more compplex patterns. Also adding the right interaction terms of polynomials can be tricky and time-consuming.
+  * **Implementations:** Python/R
+  
+### 1.2 - Regression Trees (Ensembles)
+A.K.A. Decision trees, a tree like branching structure that allows it to fit non-linear relationships.
+
+Ensamble method, such as **Random Forests (RF)** and **Gradient Boosted Trees (GBM)**, combine predictions from many individual trees. **RF's** perform very well out of the box, while **GBM's** are harder to tune but tend to have **higher performance ceilings.**
+  * **Strenghts:** They **can** learn non-linear relationships and are fairly **robust** to outliers. Ensembles perform really well in practice! They win lots of *ML* competitions (non-deep-learning).
+  * **Weaknesses:** Unconstrained, individual trees are prone to overfitting because they **can keep branching** until they memorize the training data. <- This can ve alleviated by using **ensembles.**
+  * **Implementations:** RF: Python/R GBM: Python/R
+### 1.3 - Deep Learning
+
+  * **Strenghts:**
+  * **Weaknesses:**
+  * **Implementations:**
+  
+  * **Strenghts:**
+  * **Weaknesses:**
+  * **Implementations:**
