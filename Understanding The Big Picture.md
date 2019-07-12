@@ -371,6 +371,7 @@ Comparing them:
   - Boosting -> simple base models -> boost their aggregate complexity.
  
 General Ensembling = Bagging and Boosting
+
 Decision Tree Ensembling = Random Forest and Boosted Trees
 
 
