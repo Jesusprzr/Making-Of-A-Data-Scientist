@@ -50,10 +50,10 @@ Frankly, I have never liked that much stuff like University. I have always thoug
  
 ## Seeking The Right Thing
 The ones that find aren't the ones that most desperately want, seek and/or hustle for something. The ones that find are the ones that go after the right thing. What do I mean by this? Well... I think that the following questions, by logic will explain what I mean:
- * Which bussiness will get more revenue at the end of the year, the one that focuses on the revenue, the money, or the one that focuses on the product quality/client service?
+ * Which bussiness will get more revenue at the end of the year, the one that focuses on the revenue, the money. Or the one that focuses on the product quality/client service?
  * Who is going to get a million dollars first, the one that is trying to figure out a way to get a million dollars, or the one that is trying to figure out a way of positively impacting a million souls?
  
-You see where I'm heading with this? I think that if your goal is the money, you won't get it. But if you seek for the right thing, money will be a byproduct of that. 
+You see where I'm heading with this? I think that if your goal is the money, you won't get it. But if you seek for the right thing, money will be a byproduct of that thing. 
 
 
 # Making Of A Datan Scientist Structure:
