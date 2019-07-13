@@ -1,5 +1,5 @@
 # Important Contextualization
-Before we get into the real deal, I want to put you into context so you understand the why of this repository, and more importantly... **How you can take advantage of it.** If you want to go straight forward to the content, read the **approach, structure** paragraphs and the section about **disecting the journey**. From there you can go on and take advantage of the resources and files uploaded here and start doing Data Science. 
+Before we get into the real deal, I want to put you into context so you understand the why of this repository, and more importantly... **How you can take advantage of it.** If you want to go straight forward to the content, read the **approach and structure** paragraphs and then the section about **disecting the journey**. From there you can go and dig into the resources and files uploaded here and start doing/learning Data Science. 
 
 ## The Environment
 Let's start by ploting the kind of environmental situation that gave bird to this practical and straight approach of Data Science.
