@@ -1,5 +1,5 @@
 # Important Contextualization
-Before we get into the real deal, I want to put you into context so you understand the why of this repository, and more importantly... **How you can take advantage of it.** If you want to go straight forward to the content, read the **approach and structure** paragraphs and then the section about **disecting the journey**. From there you can go and dig into the resources and files uploaded here and start doing/learning Data Science. 
+Before we get into the real deal, I want to put you into context so you understand the why of this repository, and more importantly... **How you can take advantage of it.** If you want to go straight forward to the content, read **the approach and structure** paragraphs and then the section about **disecting the journey**. From there you will have the idea of how to dig into the resources and files uploaded here and start doing/learning Data Science. 
 
 # Table of Contents
 1. [The Environment](https://github.com/Jesusprzr/Making-Of-A-Data-Scientist#the-environment)
@@ -65,15 +65,19 @@ You see where I'm heading with this? I think that if your goal is the money, you
    - Is a highly paid field.
    - AI is the present and the future of mankind (*PD:I dream of becoming a cyborg*).
 
-Understanding some personal qualities and having an idea of how the world is being influenced by technology, I qucikly came to an answer. Becoming a beast in Data Science is the goal that I should aim for.
+By understanding some personal qualities and having an idea of how the world is being influenced by technology, I qucikly came to an answer. Becoming a beast in Data Science is the goal that I should aim for.
 
 ## The Approach
 Okay, I want to be a data scientist. But now, I gotta adapt that goal to my situation, environment, and needs.
 
-There are plenty of resources online to learn data science. And is easy to get overwelmed by it. I personally 
+There are plenty of resources online to learn data science. And is easy to get overwelmed by it. But we can filter that based on our interests and perspective. From my perspective, it would be idiotic if I pick a course and study data science for the next few months/years based on a syllabus and way of learning that is intended to match a wider audience, is not that much specified and specialized, and doesn't get me up and runing with the essential as fast as I can, so I can start making money while learning on the process. That would be like going to University, and that will be counterproductive (from my perspective). So I did a lot of research for the last few weeks and got access to lots of different resources, now I filtered them (based on my interests) and now I am learning data science with the resources that provide me the following:
+ * A straight forward approach for learning the essentials to start implementing *DS*.
+ * Also an approach that is more practical, instead of theoretical.
+ * Guidance towards the journey and important things such as building a portfolio, connecting, freelancing, etc.
+ * Quality content. After all... **Input = Output.** If I learn shit, I will produce shit.  
 
-
-# Making Of A Datan Scientist Structure:
+# Structure:
+Okay, now that we know what, why, how, and  where. It is time to create the structure/roadmap of this journey:
  1. Understand the big picture.
  2. Know the full workflow process.
  3. First things first, focus on what matters.
