@@ -33,7 +33,9 @@ We are still putting things on perspective. Now it is time to focus on the thing
 We started by describing the **environmental situation** to know how limited we are, and what possibilities we have. Then we moved to **the why**, which is pretty important because you need a strong reason and fuel to cross hell. Then we moved to **the need**, which is money and finally we **stated** and added motivation to some **core ethics** and created a comrpomise to keep going even if we need to go to the confines of hell (or at least that's why I tried to transmit). Now it is time for a more objetive and analytic approach.
 
 ## A light in the dark
-I may not have to much physical opportunities on my environment, neither financially. But I still have two privileges that exeeds everything else! a computer and internet. Frankly, I have never liked that much stuff like University. I have always thought that specialized, deliveratedly practiced and showcased skills beat anything else, that's a huge reason why I didn't enter college after graduating from school. The provilege of having a tool like a computer and access to the internet solves all of my impediments:
+I may not have to much physical opportunities on my environment, neither financially. But I still have two privileges that exeed everything else! a computer and internet. 
+
+Frankly, I have never liked that much stuff like University. I have always thought that specialized, deliveratedly practiced and showcased skills beat anything else, that's a huge reason why I didn't enter college after graduating from school. The provilege of having a tool like a computer and access to the internet solves all of my impediments:
  * Educational impediments: Wiped out because you can learn enough even to beat Elon Musk on a space race. All through the internet.
  * Financial impediments: Wiped out because you can learn nearly everything free on the internet.
  * Job impediments: Destroyed, I think I don't need to explain how much possibilities there are on the internet to make money through data science. Not only data science, but everything (another thing is that is obviously not easy). 
