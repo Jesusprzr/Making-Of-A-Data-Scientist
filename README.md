@@ -4,7 +4,14 @@ Before we get into the real deal, I want to put you into context so you understa
 ## The Environment
 Let's start by ploting the kind of environmental situation that gave bird to this practical and straight approach of Data Science.
 
-I live in a third world country, in which more than 80% of the population lives in poberty, there is work, the problem is that most of the work doesn't pays enough to cover even the basic needs (from there the high rate of poverty), and education is almost killed. What do I mean by education almost killed? Well... When universities have almost no professors, is common to have classes suspended and **uncommon** to be able to    
+I am 18 years old (at least by the time i'm writing this), I live in a third world country, in which more than 80% of the population lives in poberty, there is work, the problem is that most of the work doesn't pays enough to cover even the basic needs (there the reason of the high rate of poverty) and education is almost killed. What do I mean by education almost killed? Well... When universities have almost no professors, it is common to not have classes and **uncommon** to be able to finish one semester, the instalations of the universities are just getting worst, the content and technologies of the available careers is just getting outdated, and the worst of everything... There is almost no opportunities, economically, and professionally to do anything in this country once you graduate of college. 
+
+## THE FUEL, DRIVE AND REASON OF EVERYTHING: The why
+With this terrible landscape, Am I going to sit down, cry, think "why me", and wait for someone to come and save me or a pollitical change that magically turns things to better? **Certainly not!** I have too much reasons (most of those reasons are human souls) to fight for. I am fucking sick of watching my dad, with the age that he has (56 years old) breaking his back working to just get the food in the table every month, my mother can't even go to do a fucking medical exam or go to the dentist to check a tooth, and my nephews are all separated and can't have the life of a normal kid. **So there is no fucking reason to sit down and cry, there is too much to fight for!**
+
+## The need
+So, with this situation there is certain need that goes over everything else, that need is called money. 
+![IncomeHappinesChart](https://happierhuman.com/wp-content/uploads/2012/08/life-satisfaction-vs-family-income3.png)
 
 
 # Making Of A Datan Scientist Structure:
