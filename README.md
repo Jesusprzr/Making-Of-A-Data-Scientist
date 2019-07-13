@@ -7,7 +7,7 @@ Before we get into the real deal, I want to put you into context so you understa
 3. [The Need](https://github.com/Jesusprzr/Making-Of-A-Data-Scientist#the-need)
 4. [Putting Things On Perspective](https://github.com/Jesusprzr/Making-Of-A-Data-Scientist#putting-things-on-perspective)
 5. [A Light In The Dark](https://github.com/Jesusprzr/Making-Of-A-Data-Scientist#a-light-in-the-dark)
-6. [Making Of A Data Scientist Structure](https://github.com/Jesusprzr/Making-Of-A-Data-Scientist#making-of-a-datan-scientist-structure)
+6. [Structure](https://github.com/Jesusprzr/Making-Of-A-Data-Scientist#structure)
 7. [Disecting Our Self-Creation Journey](https://github.com/Jesusprzr/Making-Of-A-Data-Scientist#disecting-our-self-creation-journey)
 
 ## The Environment
