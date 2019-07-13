@@ -21,6 +21,13 @@ I'm talking about happiness measured by income.
 Money isn't everyting. But when you are in a case like mine, really under that 5K$ mark, and on this sort of situation... I think that **money literally does buys happines.**
 
 ## Putting things on perspective
+Okay, now that we know the environmental situation, the reason (fuel), and the biggest priority to overcome this situation. What is the action plan? Well... Is clearly not what I thought two years ago. Recently when I was just graduating from school I was on my way to become a trader on the FOREX and cryptocurrency  markets. At that moment I had a little money to invest on the markets, our (the whole family) financial situation wans't this bad, and the political and economic landscape besides of not being or seeing good for the future, wasn't as catastrophic as it is today. So I was hungry of learning, and as I a am today (but not needing it this badly) hungry of financial wealth. So, for the last two years I have been learning and investing on the financial markets. Sadly, things dind't work out so well and now I am totally and completely broke... and of course, I am not financially or emotionally able to do it bi the time being. 
+
+Besides of all the negative shit that I have said so far, in reality I have learned a lot about technical analysis, the financial markets, and one of the most important skills that I have learned in my life. The **strenght/resilience/endurance** to cross the entire hell and keep looking forwad, keep walking and overcoming every stepping stone. Actually I even don't plan to leave trading, it is just that it is not emotionally and economically possible for me to do it right now, but that's a fact! **I will conquer those bastard markerts!** Also, as you already readed before, I have too much to fight for. So I'm just driven and won't ever stop, I won't even stop after achieving that economical need that I have, that's just a short term goal. I have a lot more reasons to not stop.
+
+![SoulOnFireQuote](https://drive.google.com/open?id=1yicv3W_3kY-8vkA-a95f7WXk-mOnO34e)
+
+and I still have two privileges that exeeds everything else! a computer and internet. I am traumatized about trading, and I don't have money to invest on it any more, and frankly, with this situation I don't consider myself emotionally competent to 
 
 
 
