@@ -6,6 +6,9 @@ Before we get into the real deal, I want to put you into context so you understa
 2. [THE FUEL, DRIVE AND REASON OF EVERYTHING](https://github.com/Jesusprzr/Making-Of-A-Data-Scientist#the-fuel-drive-and-reason-of-everything)
 3. [The Need](https://github.com/Jesusprzr/Making-Of-A-Data-Scientist#the-need)
 4. [Putting Things On Perspective](https://github.com/Jesusprzr/Making-Of-A-Data-Scientist#putting-things-on-perspective)
+5. [A Light In The Dark](https://github.com/Jesusprzr/Making-Of-A-Data-Scientist#a-light-in-the-dark)
+6. [Making Of A Data Scientist Structure](https://github.com/Jesusprzr/Making-Of-A-Data-Scientist#making-of-a-datan-scientist-structure)
+7. [Disecting Our Self-Creation Journey](https://github.com/Jesusprzr/Making-Of-A-Data-Scientist#disecting-our-self-creation-journey)
 
 ## The Environment
 Let's start by ploting the kind of environmental situation that gave bird to this practical and straight approach of Data Science.
