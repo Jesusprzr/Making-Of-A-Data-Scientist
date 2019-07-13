@@ -1,6 +1,12 @@
 # Important Contextualization
 Before we get into the real deal, I want to put you into context so you understand the why of this repository, and more importantly... **How you can take advantage of it.** If you want to go straight forward to the content, read the **approach and structure** paragraphs and then the section about **disecting the journey**. From there you can go and dig into the resources and files uploaded here and start doing/learning Data Science. 
 
+# Table of Contents
+1. [The Environment](https://github.com/Jesusprzr/Making-Of-A-Data-Scientist#the-fuel-drive-and-reason-of-everything)
+2. [THE FUEL, DRIVE AND REASON OF EVERYTHING](https://github.com/Jesusprzr/Making-Of-A-Data-Scientist#the-fuel-drive-and-reason-of-everything)
+3. [The need](https://github.com/Jesusprzr/Making-Of-A-Data-Scientist#the-need)
+4. [Putting things on perspective](https://github.com/Jesusprzr/Making-Of-A-Data-Scientist#putting-things-on-perspective)
+
 ## The Environment
 Let's start by ploting the kind of environmental situation that gave bird to this practical and straight approach of Data Science.
 
