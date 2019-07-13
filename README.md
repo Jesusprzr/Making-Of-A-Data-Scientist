@@ -53,7 +53,24 @@ The ones that find aren't the ones that most desperately want, seek and/or hustl
  * Which bussiness will get more revenue at the end of the year, the one that focuses on the revenue, the money. Or the one that focuses on the product quality/client service?
  * Who is going to get a million dollars first, the one that is trying to figure out a way to get a million dollars, or the one that is trying to figure out a way of positively impacting a million souls?
  
-You see where I'm heading with this? I think that if your goal is the money, you won't get it. But if you seek for the right thing, money will be a byproduct of that thing. 
+You see where I'm heading with this? I think that if your goal is the money, you won't get it. But if you seek for the right thing, money will be a byproduct of that thing. Now the question is, **what it that goal that we should go after?** Here is when introspection and understanding some of the big picture of the world comes in:
+ * Some personal qualities:
+   - I have always being gravitated towards technology, even more towards its roll in shaping the future of mankind.
+   - I have always liked programming.
+   - I like analyzing, understanding and solving problems.
+   - I get to understand quantitative/mathematical stuff quite fast. The problem comes when I need to practice to master it xD.
+ * Part of the world picture (at least mine):
+   - Data Science as we know, is relatively new, and there is A LOT more demmand than supply. 
+   - Over the next years, it will just keep growing.
+   - Is a highly paid field.
+   - AI is the present and the future of mankind (*PD:I dream of becoming a cyborg*).
+
+Understanding some personal qualities and having an idea of how the world is being influenced by technology, I qucikly came to an answer. Becoming a beast in Data Science is the goal that I should aim for.
+
+## The Approach
+Okay, I want to be a data scientist. But now, I gotta adapt that goal to my situation, environment, and needs.
+
+There are plenty of resources online to learn data science. And is easy to get overwelmed by it. I personally 
 
 
 # Making Of A Datan Scientist Structure:
