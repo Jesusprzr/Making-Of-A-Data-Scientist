@@ -27,8 +27,16 @@ Besides of all the negative shit that I have said so far, in reality I have lear
 
 ![SoulOnFireQuote](https://drive.google.com/uc?export=view&id=1yicv3W_3kY-8vkA-a95f7WXk-mOnO34e)
 
-and I still have two privileges that exeeds everything else! a computer and internet. I am traumatized about trading, and I don't have money to invest on it any more, and frankly, with this situation I don't consider myself emotionally competent to 
+## Lil recap
+We are still putting things on perspective. Now it is time to focus on the things that are inside our circle of influence (reference to the 7 habits of highly effective people) A.K.A. What we can control.
 
+We started by describing the **environmental situation** to know how limited we are, and what possibilities we have. Then we moved to **the why**, which is pretty important because you need a strong reason and fuel to cross hell. Then we moved to **the need**, which is money and finally we **stated** and added motivation to some **core ethics** and created a comrpomise to keep going even if we need to go to the confines of hell (or at least that's why I tried to transmit). Now it is time for a more objetive and analytic approach.
+
+## A light in the dark
+I may not have to much physical opportunities on my environment, neither financially. But I still have two privileges that exeeds everything else! a computer and internet. Frankly, I have never liked that much stuff like University. I have always thought that specialized, deliveratedly practiced and showcased skills beat anything else, that's a huge reason why I didn't enter college after graduating from school. The provilege of having a tool like a computer and access to the internet solves all of my impediments:
+ * Educational impediments: Wiped out because you can learn enough even to beat Elon Musk on a space race. All through the internet.
+ * Financial impediments: Wiped out because you can learn nearly everything free on the internet.
+ * Job impediments: Destroyed, I think I don't need to explain how much possibilities there are on the internet to make money through data science. Not only data science, but everything (another thing is that is obviously not easy). 
 
 
 # Making Of A Datan Scientist Structure:
