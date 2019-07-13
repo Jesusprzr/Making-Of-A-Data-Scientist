@@ -25,7 +25,7 @@ Okay, now that we know the environmental situation, the reason (fuel), and the b
 
 Besides of all the negative shit that I have said so far, in reality I have learned a lot about technical analysis, the financial markets, and one of the most important skills that I have learned in my life. The **strenght/resilience/endurance** to cross the entire hell and keep looking forwad, keep walking and overcoming every stepping stone. Actually I even don't plan to leave trading, it is just that it is not emotionally and economically possible for me to do it right now, but that's a fact! **I will conquer those bastard markerts!** Also, as you already readed before, I have too much to fight for. So I'm just driven and won't ever stop, I won't even stop after achieving that economical need that I have, that's just a short term goal. I have a lot more reasons to not stop.
 
-![SoulOnFireQuote](https://drive.google.com/open?id=1yicv3W_3kY-8vkA-a95f7WXk-mOnO34e)
+![SoulOnFireQuote](https://drive.google.com/uc?export=view&id=1yicv3W_3kY-8vkA-a95f7WXk-mOnO34e)
 
 and I still have two privileges that exeeds everything else! a computer and internet. I am traumatized about trading, and I don't have money to invest on it any more, and frankly, with this situation I don't consider myself emotionally competent to 
 
