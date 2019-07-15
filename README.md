@@ -8,7 +8,7 @@ Before we get into the real deal, I want to put you into context so you understa
 4. [Putting Things On Perspective](https://github.com/Jesusprzr/Making-Of-A-Data-Scientist#putting-things-on-perspective)
 5. [A Light In The Dark](https://github.com/Jesusprzr/Making-Of-A-Data-Scientist#a-light-in-the-dark)
 6. [Structure](https://github.com/Jesusprzr/Making-Of-A-Data-Scientist#structure)
-7. [Disecting Our Self-Creation Journey](https://github.com/Jesusprzr/Making-Of-A-Data-Scientist#disecting-our-self-creation-journey)
+7. [Disecting Our Roadmap](https://github.com/Jesusprzr/Making-Of-A-Data-Scientist#disecting-our-roadmap)
 
 ## The Environment
 Let's start by ploting the kind of environmental situation that gave bird to this practical and straight approach of Data Science.
@@ -79,7 +79,7 @@ There are plenty of resources online to learn data science. And is easy to get o
 # Structure:
 ![Roadmap](https://drive.google.com/uc?export=view&id=1eRTKIB7hSIsnO4xlJjh2ZE66rm4rtnmw)
 
-## Disecting Our Self-Creation Journey
+## Disecting Our Roadmap
 
 
 ### 1. Understand the bif picture
