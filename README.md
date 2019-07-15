@@ -79,13 +79,6 @@ There are plenty of resources online to learn data science. And is easy to get o
 # Structure:
 ![Roadmap](https://drive.google.com/uc?export=view&id=1LzjiMaaAdJXHNQBWYm6zhTuftc1Z3CTC)
 
-Okay, now that we know what, why, how, and  where. It is time to create the structure/roadmap of this journey:
- 1. Learn the basics and the big picture.
- 2. Deliberate learning, focus on what matters.
- 3. Build a portfolio that leaves no doubt of your capacity.
- 4. Build connections by adding value with your work or knowledge.
- 5. The door is open, cross it. Time for effective and efficient management.
-
 ## Disecting Our Self-Creation Journey
 
 
