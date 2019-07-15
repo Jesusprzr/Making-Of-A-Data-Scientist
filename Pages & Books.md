@@ -3,3 +3,5 @@
 [Elite Data Science](https://elitedatascience.com/)
 
 [SharpSight](https://www.sharpsightlabs.com/)
+
+[SKLearn Tutorials (From Official Page)](https://scikit-learn.org/stable/tutorial/index.html)
