@@ -77,7 +77,7 @@ There are plenty of resources online to learn data science. And is easy to get o
  * Quality content. After all... **Input = Output.** If I learn shit, I will produce shit.  
 
 # Structure:
-![Roadmap](https://drive.google.com/uc?export=view&id=1LzjiMaaAdJXHNQBWYm6zhTuftc1Z3CTC)
+![Roadmap](https://drive.google.com/uc?export=view&id=1eRTKIB7hSIsnO4xlJjh2ZE66rm4rtnmw)
 
 ## Disecting Our Self-Creation Journey
 
