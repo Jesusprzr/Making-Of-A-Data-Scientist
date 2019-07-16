@@ -1,5 +1,7 @@
-# Description
-Before we get into the real deal, I want to put you into context so you understand the why of this repository, and more importantly... **How you can take advantage of it.** If you want to go straight forward to the content, read **the approach and structure** paragraphs and then the section about **disecting the journey**. From there you will have the idea of how to dig into the resources and files uploaded here and start doing/learning Data Science. 
+# Introduction
+This repository is intended to be where I keep the documentation and structure of my learning process while giving access to the resources for anyone who wants to follow a straight learning/Implementation path and approach.
+
+ 
 
 # Table of Contents
 - [Context Of Creation (Totally Optional)](https://github.com/Jesusprzr/Making-Of-A-Data-Scientist/blob/master/Context%20Of%20Creation.md)
