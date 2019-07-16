@@ -1,14 +1,10 @@
-# Important Contextualization
+# Important
 Before we get into the real deal, I want to put you into context so you understand the why of this repository, and more importantly... **How you can take advantage of it.** If you want to go straight forward to the content, read **the approach and structure** paragraphs and then the section about **disecting the journey**. From there you will have the idea of how to dig into the resources and files uploaded here and start doing/learning Data Science. 
 
 # Table of Contents
-1. [The Environment](https://github.com/Jesusprzr/Making-Of-A-Data-Scientist#the-environment)
-2. [Souls = Fuel](https://github.com/Jesusprzr/Making-Of-A-Data-Scientist#souls--fuel)
-3. [The Need](https://github.com/Jesusprzr/Making-Of-A-Data-Scientist#the-need)
-4. [Putting Things On Perspective](https://github.com/Jesusprzr/Making-Of-A-Data-Scientist#putting-things-on-perspective)
-5. [A Light In The Dark](https://github.com/Jesusprzr/Making-Of-A-Data-Scientist#a-light-in-the-dark)
-6. [Structure](https://github.com/Jesusprzr/Making-Of-A-Data-Scientist#structure)
-7. [Disecting Our Roadmap](https://github.com/Jesusprzr/Making-Of-A-Data-Scientist#disecting-our-roadmap)
+- [Context Of Creation](https://github.com/Jesusprzr/Making-Of-A-Data-Scientist/blob/master/Context%20Of%20Creation.md)
+- [Structure](https://github.com/Jesusprzr/Making-Of-A-Data-Scientist#structure)
+- [Disecting Our Roadmap](https://github.com/Jesusprzr/Making-Of-A-Data-Scientist#disecting-our-roadmap)
 
 # Structure:
 ![Roadmap](https://drive.google.com/uc?export=view&id=1eRTKIB7hSIsnO4xlJjh2ZE66rm4rtnmw)
