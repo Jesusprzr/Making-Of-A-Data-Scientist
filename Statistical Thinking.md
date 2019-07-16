@@ -53,6 +53,8 @@ File format **documented** in -> 2002FemPreg.dct
 -   .dct = Stata dictionary file
     -   Stata = Statistical Software System
     -   Dictionary (in this context) =  list of variable names, types, and indices that identify where in each line to find each variable.
+    
+Run *nsfg.py* in order to be able to open dct files. It contains the *thinkstats2.py* module which contains the functions necessary to read the stata dictionary.
         
 ##  Dataframes
     
