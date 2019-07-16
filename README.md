@@ -3,7 +3,7 @@ Before we get into the real deal, I want to put you into context so you understa
 
 # Table of Contents
 1. [The Environment](https://github.com/Jesusprzr/Making-Of-A-Data-Scientist#the-environment)
-2. [THE FUEL, DRIVE AND REASON OF EVERYTHING](https://github.com/Jesusprzr/Making-Of-A-Data-Scientist#the-fuel-drive-and-reason-of-everything)
+2. [Souls = Fuel](https://github.com/Jesusprzr/Making-Of-A-Data-Scientist#Souls = Fuel)
 3. [The Need](https://github.com/Jesusprzr/Making-Of-A-Data-Scientist#the-need)
 4. [Putting Things On Perspective](https://github.com/Jesusprzr/Making-Of-A-Data-Scientist#putting-things-on-perspective)
 5. [A Light In The Dark](https://github.com/Jesusprzr/Making-Of-A-Data-Scientist#a-light-in-the-dark)
@@ -15,7 +15,7 @@ Let's start by ploting the kind of environmental situation that gave bird to thi
 
 I am 18 years old (at least by the time i'm writing this), I live in a third world country, in which more than 80% of the population lives in poberty, there is work, the problem is that most of the work doesn't pays enough to cover even the basic needs (there the reason of the high rate of poverty) and education is almost killed. What do I mean by education almost killed? Well... When universities have almost no professors, it is common to not have classes and **uncommon** to be able to finish one semester, the instalations of the universities are just getting worst, the content and technologies of the available careers is just getting outdated, and the worst of everything... There is almost no opportunities, economically, and professionally to do anything in this country once you graduate of college. 
 
-## THE FUEL, DRIVE AND REASON OF EVERYTHING
+## Souls = Fuel
 With this terrible landscape, Am I going to sit down, cry, and think "why me", or wait for someone to come and save me or a pollitical change that magically turns things to better? **Certainly not!** I have too much reasons (most of those reasons are human souls) to fight for. I am fucking sick of watching my dad, with the age that he has (56 years old) breaking his back working to just get the food in the table every month, my mother can't even go to do a fucking medical exam or go to the dentist to check a tooth, and my nephews are all separated and can't have the life of a normal kid. **So there is no fucking reason to sit down and cry, there is too much to fight for!**
 
 ## The Need
