@@ -3,7 +3,7 @@ Before we get into the real deal, I want to put you into context so you understa
 
 # Table of Contents
 1. [The Environment](https://github.com/Jesusprzr/Making-Of-A-Data-Scientist#the-environment)
-2. [Souls = Fuel](https://github.com/Jesusprzr/Making-Of-A-Data-Scientist#Souls = Fuel)
+2. [Souls = Fuel](https://github.com/Jesusprzr/Making-Of-A-Data-Scientist#souls--fuel)
 3. [The Need](https://github.com/Jesusprzr/Making-Of-A-Data-Scientist#the-need)
 4. [Putting Things On Perspective](https://github.com/Jesusprzr/Making-Of-A-Data-Scientist#putting-things-on-perspective)
 5. [A Light In The Dark](https://github.com/Jesusprzr/Making-Of-A-Data-Scientist#a-light-in-the-dark)
