@@ -6,5 +6,5 @@ Before we get into the real deal, I want to put you into context so you understa
 - [Structure](https://github.com/Jesusprzr/Making-Of-A-Data-Scientist#structure)
 - [Disecting Our Roadmap](https://github.com/Jesusprzr/Making-Of-A-Data-Scientist#disecting-our-roadmap)
 
-# Roadmap:
+# Roadmap
 ![Roadmap](https://drive.google.com/uc?export=view&id=1eRTKIB7hSIsnO4xlJjh2ZE66rm4rtnmw)
