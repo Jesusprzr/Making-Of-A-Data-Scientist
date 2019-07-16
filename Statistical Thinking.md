@@ -45,14 +45,14 @@ In order to use the data effectively, we have to understand the design of the st
 Code available on [Git Hub](https://github.com/AllenDowney/ThinkStats2).
 
 2002FemPreg.dat.gz = Pregnancy data from cycle 6
-    -   a gzip-compressed data file in plain text (ASCII)
-    -    fixed width columns
-    -   Each line in the file is a record that contains data about one pregnancy
+-   a gzip-compressed data file in plain text (ASCII)
+-    fixed width columns
+-   Each line in the file is a record that contains data about one pregnancy
     
 File format **documented** in -> 2002FemPreg.dct
-    -   .dct = Stata dictionary file
-        -   Stata = Statistical Software System
-        -   Dictionaty (in this context) =  list of variable names, types, and indices that identify where in each line to find each variable.
+-   .dct = Stata dictionary file
+    -   Stata = Statistical Software System
+    -   Dictionary (in this context) =  list of variable names, types, and indices that identify where in each line to find each variable.
         
 ##  Dataframes
     
