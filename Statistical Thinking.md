@@ -54,7 +54,9 @@ File format **documented** in -> 2002FemPreg.dct
     -   Stata = Statistical Software System
     -   Dictionary (in this context) =  list of variable names, types, and indices that identify where in each line to find each variable.
     
-Run *nsfg.py* in order to be able to open dct files. It contains the *thinkstats2.py* module which contains the functions necessary to read the stata dictionary.
+Run *nsfg.py* in order to be able to open dct files. Or *pip install thinkx*. It contains the *thinkstats2.py* module which contains the functions necessary to read the stata dictionary.
+
+If you are having problems like 'not such file or directory', then you gotta change the current directory path that python is runing to the *thinkstats- master* path.
         
 ##  Dataframes
     
