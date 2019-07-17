@@ -58,5 +58,4 @@ Run *nsfg.py* in order to be able to open dct files. Or *pip install thinkx*. It
 
 If you are having problems like 'not such file or directory', then you gotta change the current directory path that python is runing to the *thinkstats- master* path.
         
-##  Dataframes
-    
+#   From now on, everyting will be done from a jupyter notebook since it is a lot more versatile. Next comes Dataframes    
