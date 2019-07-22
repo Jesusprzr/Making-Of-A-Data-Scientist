@@ -102,3 +102,54 @@ Here is how that looks in pseudocode:
         evaluate best_model from each_model_family on test_data
         select final model
 
+Notice how we are doign a neasted iteration with the cross-validation process inside this one. This is a really effective way of solving problems with ML.
+
+### Ensembling models
+This is another way of improving your solution in which you combine multiple models into an **ensemble**. This is a direct extension of the iterative process needed to fit those models.
+
+A common form of ensembling is simply averaging the predictions from your multiple models. There are more advanced ways to combine your models, but the iteration needed to fit multiple models is the same.
+
+This combined prediction will often see a small improvement in performance over any of the individual models. Here is the pseudocode for building a simple ensemble model:
+
+        training_data, test_data = randomly_split(all_data)
+        
+        list_of_families = logistic regression,
+                           decision tree,
+                           SVM,
+                           neural network, etc...
+        
+        for moddel_family in list_of_families:
+            best_model = tuned with cross-validation on traning_data
+            
+        average predictions by best_model from each model_family
+        ... profit! (often)
+        
+The process is almost exactly the same as the previous technique.
+
+Since both are almost equal, this means that you can easily double-up in those two techniques. First, you can build the best model from a variety of different models. Then you can ensemble them.
+Finally, you can evaluate the individual model and the ensemble model on the same test set.
+
+**As a final word of caution:** ALWAYS keep an untainted test set to select your final model. It is really recommended to split your data into train and test sets from the very beggining of the modeling process. Don't touch the test set until the very end.
+
+# The Meta Level: Improving Your Data
+As we already know -> Better Data > Better Algorithms
+
+But that **doesn't** mean more data > better algorithms. Yes, better data often implies more data, but it also implies cleaner data, mroe relevant data, and better features engineered from the data.
+
+Improving your data is another iterative process since you will find it pretty damn hard to get your data completely right from the start. 
+
+Maybe there is some key features you didn't think to collect. Maybe you didn't collect enough data. Maybe you misunderstood one of the columns in the dataset and need to circle back with a collegue to explain it.
+
+A great machine learning practitioner always keep an open mind towards continuously improving the dataset.
+
+### Collecting better data
+This ability is something that is developed with time, experience, and more domain expertise. Because this is more of a holistic/intuitive reasoning that you develop as you practice and dig more into the field you are working on.
+
+Another element is the overall cleanliness of the data. This means having less missing data, lower measurement error, and doing your best to replace proxy metrics with primary metrics.
+
+The following are questions that if you ask yourself can spark ideas for improving your data:
+- Are you collecting all the features that you need?
+- Can you clean the data better?
+- Can you reduce measurement error?
+- Are there outliers that can be removed?
+- Is it cheap to collect more data?
