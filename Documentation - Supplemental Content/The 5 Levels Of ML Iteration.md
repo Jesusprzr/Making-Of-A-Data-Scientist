@@ -1,6 +1,7 @@
 Iteration = *repeating a set of tasks to achieve a result*
-Common pattern (in teaching) = load data -> preprocess data -> fit models -> make preductions
-Distinct cyclical nature = model level -> micro level -> macro level -> meta level -> human level
+
+    Common pattern (in teaching) = load data -> preprocess data -> fit models -> make preductions
+    Distinct cyclical nature = model level -> micro level -> macro level -> meta level -> human level
 
 # The Model Level: Fitting Parameters
 This is the first level where iteration plays a big role. Every model is defined by its parameters. i.e. a regression model is defined by its feature coefficients, a decision tree is defined by its branch locations, a neural network by the weights connecting its layers.
