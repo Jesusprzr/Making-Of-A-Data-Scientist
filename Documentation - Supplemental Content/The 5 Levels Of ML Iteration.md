@@ -1,4 +1,4 @@
-Iteration = *repeating a set of tasks to achieve a result*
+Iteration = repeating a set of tasks to achieve a result
 
     Common pattern (in teaching) = load data -> preprocess data -> fit models -> make preductions
     Distinct cyclical nature = (((((model level) micro level) macro level) meta level) human level)
@@ -153,3 +153,40 @@ The following are questions that if you ask yourself can spark ideas for improvi
 - Can you reduce measurement error?
 - Are there outliers that can be removed?
 - Is it cheap to collect more data?
+
+### Engineering better features
+This is one of the most valuable activities you can do to improve your models. It is often difficult and time-consuming but is cosidered essential on applied machine learning. Butit is you duty to cotinue learning about your chosen domain in order to leverage it to create new features from the data and improve your models.
+
+This is because as you learn more about the domain, you'll develop better intuition around the types of features that are most impactful. You should treat this as an iterative process that improves alongside your growth in personal expertise.
+
+# The Human Level: Improving Yourself
+This is the most important level of iteration in machine learning. If you forget everything else in this post, **take away the lessons from this section.**
+
+If you are a beginner you may feel overwhelmed with all there is to learn. There are so many moving pieces, and new developments are happening every day. <- **This is why this is the most important level.**
+
+We wan to conclude with a few parting suggestions that help you keep things on perspective and feel less overwhelmed by the information overload in the field.
+
+### 1. Never stop learning
+You should treat this as an iteration two. Not in the sense of relearning the same thing over again. But in repeating the action and decision of always learning something new and practicying it!
+
+### 2. Don't expect perfection from the start
+It is find if you build a model and find out that it completely sucks. The most valuable treasure is your personal growth and improvement, and that should be your main focus.
+
+### 3. It is OK to not know everything
+It is an obvious fact that it is impossible to know everything about ML. The key is to build a foundation that will help you pick up new algorithms and techniques as you need them. And yes, of course **understanding iteration is part of that foundation.**
+
+### 4. Try everything at least twice
+If you are struggling with an algorithm or any task, it is really good to try it at least one more time. Everything is easier and faster on the second try, and this is the best way to see your progress.
+
+### 5. Cycle between theory, practice, and projects
+This is the faster and more efficient way to master the theory while you are developing practical, real-world skills. And also, at the end of the day you will have some projects that will help you to showcase your skills, improve over them, create new projects and ideas from those, etc.
+
+## Summary of iteration in machine learning
+The process of iteration literally glues together the machine learning process on every level.
+
+    Summary of iteration in real-world machine learning
+        Human Level: Repeatedly practice to improve your skills.
+          Meta Level: Continue to improve your data and features.
+            Macro Level: Explore different model families and ensembles.
+                Micro Level: Cross-validation to tune model hyperparameters.
+                    Model Level: Gradient descent to fit model parameters.
