@@ -19,3 +19,15 @@ Here I get that statistics can encapsulate and bring meaning to data, but also t
 We can use the data we know to answer the data we don't know. If we want to count how many homeless people are in Chicago, it will be a titanic and expensive task to count them all. We can use sampling of a small area, and then make an inference about the homeless people of the entire city. 
 
 A political poll done by a research organization, determined that infer in a sample of 1,000 households will produce almost the same result as contacting every household in the U.S. Of course, sampling has to be done right because if you make a mistake in the process of creating the most accurate sample, then the outcome of your inference can be totally disastrous. 
+
+## Assessing risk and other probability-related events
+- People do win on the casino, but casinos always win on the long run due the the probabilities (even if those are really little) that they have in their favor. 
+- Businesses engineer processes that make the probabilities of adverse outcome acceptably low.
+- The 2008 crisis was predictable. The things that caused the crisis were extremely unlikely under W.S. Firms probabilities, but those models that tehy had were flawed, and their data too limited.
+- Any model, to deal with risk must have probability as its foundation.
+- The insurance industry makes money out of charging premiums that that are more than sufficient to pay for the expected payouts.
+- With probability we can spot cheat. If something extremely unlikely to happen, happens. There is room for the possibility of what happened being a cheat.
+- An statistical anomaly does not prove wrongdoing. There was a man that won the lottery in 2008 and again in 2011. The possibility of this happening was 1 on 25 trillion. We cannot arrest him for fraud on the basis of this calculation (of course, we might inquire whether he has any relatives who work for the state lottery). 
+- Probability is one weapon in an arsenal that **requires good judgement.**
+
+## Identifying important relationships (statistical detective work)
