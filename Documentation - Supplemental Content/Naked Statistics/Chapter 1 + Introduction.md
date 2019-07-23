@@ -31,3 +31,5 @@ A political poll done by a research organization, determined that infer in a sam
 - Probability is one weapon in an arsenal that **requires good judgement.**
 
 ## Identifying important relationships (statistical detective work)
+Regression analysis is the tool that enables researchers to isolate a relationship between two variables. The problem with these type of analysis is that they can isolate a strong association between two varables by statistical analysis, but we cannot explain why that relationship exists, which means that we don't certaintly know if there is causality. **The point of statistics is to learn things that inform our lives.**
+
