@@ -23,7 +23,7 @@ A political poll done by a research organization, determined that infer in a sam
 ## Assessing risk and other probability-related events
 - People do win on the casino, but casinos always win on the long run due the the probabilities (even if those are really little) that they have in their favor. 
 - Businesses engineer processes that make the probabilities of adverse outcome acceptably low.
-- The 2008 crisis was predictable. The things that caused the crisis were extremely unlikely under W.S. Firms probabilities, but those models that tehy had were flawed, and their data too limited.
+- The 2008 crisis was predictable. The things that caused the crisis were extremely unlikely under W.S. Firms probabilities, but those models that they had were flawed, and their data too limited.
 - Any model, to deal with risk must have probability as its foundation.
 - The insurance industry makes money out of charging premiums that that are more than sufficient to pay for the expected payouts.
 - With probability we can spot cheat. If something extremely unlikely to happen, happens. There is room for the possibility of what happened being a cheat.
@@ -31,5 +31,8 @@ A political poll done by a research organization, determined that infer in a sam
 - Probability is one weapon in an arsenal that **requires good judgement.**
 
 ## Identifying important relationships (statistical detective work)
-Regression analysis is the tool that enables researchers to isolate a relationship between two variables. The problem with these type of analysis is that they can isolate a strong association between two varables by statistical analysis, but we cannot explain why that relationship exists, which means that we don't certaintly know if there is causality. **The point of statistics is to learn things that inform our lives.**
+We can't conduct an analysis on humans if we expect an adverse outcome, that's why getting to the conclusion of smoking being a causality of cancer wasn't that straight forward. Also there are more implications to that. If we are about to see the outcome at the twentieth reunion, smokers are less likely to show up. We also can't simply do that without having control and experimental groups, because there are more issues that could affect the health of the subject. And at the fortieth reunion, our bias will be more serious because the health of the subjects obviously will have greater chances of being worst.
 
+The data present unorganized clues—the crime scene, and we can't do experimental research. Statistical analysis is the detective work that crafts the raw data into some meaningful conclusion. Regression analysis is the tool that enables researchers to isolate a relationship between two variables. The problem with these type of analysis is that they can isolate a strong association between two varables by statistical analysis, but we cannot explain why that relationship exists, which means that we don't certaintly know if there is causality. **The point of statistics is to learn things that inform our lives.**
+
+## Lies, damned lies, and statistics
