@@ -36,4 +36,17 @@ We can't conduct an analysis on humans if we expect an adverse outcome, that's w
 The data present unorganized clues—the crime scene, and we can't do experimental research. Statistical analysis is the detective work that crafts the raw data into some meaningful conclusion. Regression analysis is the tool that enables researchers to isolate a relationship between two variables. The problem with these type of analysis is that they can isolate a strong association between two varables by statistical analysis, but we cannot explain why that relationship exists, which means that we don't certaintly know if there is causality. **The point of statistics is to learn things that inform our lives.**
 
 ## Lies, damned lies, and statistics
-We live in a real, complex, and non perfect world. Data is not perfect, and often, neither easy or cheap to collect. It is mostly possible that not only our data, but any other circumstance can affect our data, which will ultimately change our outcome in ways that we haven't think off. All these problems are magnified as our question gets more subjective, because is less quantifiable and more broad to answer. This leads us to even on the best circumstances, intellectually honest individuals may seem skeptical, or even disagree about statistical results or ther implications. But of course, we conduct statistical analysis with the best tools we have 
+We live in a real, complex, and non perfect world. Data is not perfect, and often, neither easy or cheap to collect. It is mostly possible that not only our data, but any other circumstance can affect our data, which will ultimately change our outcome in ways that we haven't think off. All these problems are magnified as our question gets more subjective, because is less quantifiable and more broad to answer. This leads us to even on the best circumstances, intellectually honest individuals may seem skeptical, or disagree about statistical results or ther implications. But of course, we conduct statistical analysis with the best data, methodologies and resources available. But all of this is the reason why it is so easy to lie with stats. Remember the reasons why we use stats:
+- To summarize huge quantities of data.
+- To make better decisions.
+- To answer important social questions.
+- To recognize patterns that can refine how we do everything from selling
+diapers to catching criminals.
+- To catch cheaters and prosecute criminals.
+- To evaluate the effectiveness of policies, programs, drugs, medical
+procedures, and other innovations.
+- And to spot the scoundrels who use these very same powerful tools for
+nefarious ends.
+
+If you can do all of that while looking great in a Hugo Boss suit or a short
+black skirt, then you might also be the next star of CSI: Regression Analysis
