@@ -60,5 +60,22 @@ High-End D.S's work with hard computer science, statistics, and probability stuf
 
 Data Scientist are mostly in companies that have data and/or research capabilities.
 
+System recommendation is purely based on machine learning. Also classification, cluster analysis -> market basket analysis. Predictive analytics <- Decision trees, Bayesian Analysis, naive Bayes, etc.
 
+You need to know not the details of each technique, but the trade-offs . <- over sampling, overfitting, underfitting.
 
+IOT will be everywhere and will generate data.
+
+# Regression
+**Why tall parents don't have even taller children?**
+This is the question that leaded to Sir Frances Galton studies in 1886, and that produced what we know today as *regression models.**
+
+**Addressing real state price predictions:** The author had a thesis for his masters degree in which he developed hedonic price models for real state. Here found that larger homes sell for more than smaller homes (obvious conclusion) but also done it on a detailed and quantifiable way that shows the magnitude of each relationship. For example: an additional washroom adds more value to the house than an additional bedroom, the proximity to transport infrastructures result in higher housing proces, houses near freeways or highways sold for less than others, proximity to shopping centers had non-linear impacts on housing prices (< 2.5 Km sold for less; > 2.5 Km < 5 Km sold for more; > 5 Km sold for less than the ones around 2.5-5 Km). He also found that housing values in Toronto decline with distance from downtown.
+
+## So, Why regress?
+Here you have a few examples of what you can answer with hedonic regression models:
+* How much more a house can sell for an additional bedroom?
+* What's the impact of lot size on housing prices?
+* Do homes with brick exterior sell for less than homes with stone exterior?
+* How much does a finished basement contribute to the price of a housing unit?
+* Do houses located near high-voltage power lines sell for more or less than the rest?
