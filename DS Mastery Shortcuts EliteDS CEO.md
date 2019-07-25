@@ -72,3 +72,5 @@ Learn in context with realistic end-to-end projects!
 - Use real world datasets
 - Pick real world objectives
 - Go through the full Data Science process.
+
+Models: Deal with model complexity to understand what they are, how to use, and where to use them.
