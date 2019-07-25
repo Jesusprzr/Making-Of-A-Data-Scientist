@@ -32,3 +32,15 @@ Don't look for an unicorn. Instead focus on looking into your applicants poll an
 
 Communication skills are equally as important, just imagine you found a new insight, discovered the reason of a problem and/or its solution, or had an unexpected outcome and now you need to communicate it to your client, boss, etc. The ability to communicate it on a compelling and understandable way that gets them pumped and inspired to work on it is equally as important.
 
+D.S. Applications vary from medical research, augmented reality, geographical distributions, search engines, recommendation systems, etc.
+
+The story of the father and the pregnant daughter recommendations.
+
+**All models are wrong, they are usefull but they are wrong.** <- yah know, the free lunch theorem
+
+But all the models, experiments, analysis, and algorithms (if used ethically and correctly) are allowing us to create a better world.
+
+**The final deliverable**
+The ultimate purpose of analytics is to communicate findings to the concerned who might use these insights to formulate policy or strategy. Analytics summarize findings in tables and plots. Use those insights to build the narrative to communicate the findings is part of the D.S. Work. This is why before starting your analysis you should know the scope of the final delivery -> Deliverate the key message and then look for the data and analytics you need to make that the case. **The initial planning and conceptualization are extremely important for producing a senseful and compelling document.**
+
+# The Report Structure
