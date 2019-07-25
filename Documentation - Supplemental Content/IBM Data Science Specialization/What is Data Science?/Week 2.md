@@ -5,7 +5,7 @@ The Big Data definitions depends on you, there are two important attributes behi
 - Size: Big Data is done with data in large database systems that are outside of the common data management tools.
 - Usage: The techniques, models, patterns used in Big Data are pretty specific of it.
 
-## Hadoop:
+**Hadoop:**
 
 The process:
 The data is distributed through lots of servers (computers) running the same program, and this servers have each one a slice of the whole cluster of data. The server runs the program on it's individual part to finally send the results back, those are going to be sorted and redistributed to another process. The first process is the map process, and the second process is the reduce process.
