@@ -6,20 +6,20 @@ Machine Learning is not about fancy algorithms. <- This is a piece of the puzzle
 Machine Learning is about teaching a computer through self-learned patterns from the data.
 
      Programming -> Data + Program = Output
-Machine Learning -> Data + Output = Program
+     Machine Learning -> Data + Output = Program
 
 The goal of *ML* is to simplify a large amount of data into a simple prediction or task to solve a problem or need.
 
 # Secret Nº2
 Machine Learning != Black Box
 
-Academic ML -> Obssesed over those algorithms
-Applied ML -> Focused on results
+     Academic ML -> Obssesed over those algorithms
+     Applied ML -> Focused on results
 
 Secret Nº3
 First you need an idea of how the whole puzzle looks like in order to start arming the puzzle piece by piece.
 
-Exploratory Analysis -> Scouting ahead before loosing yourself on the woods.
+     Exploratory Analysis -> Scouting ahead before loosing yourself on the woods.
 
 #Secret Nº 4
 Better Data > Fancier Algorithms
@@ -29,12 +29,13 @@ A cleaned dataset can boost your model's performance.
 # Secret Nº5 
 Domain Knowledge = Competitive Advantage
 
-Garbage Data + Irrelevant Features = Useless Model
+     Garbage Data + Irrelevant Features = Useless Model
 
 # Secret Nº 6
 Learn the most general purpose algorithms that will give you the foundations.
 
-Effectiveness vs Versatility vs Limitations <- Look at these
+     Effectiveness vs Versatility vs Limitations <- Look at these
+
 Examples:
 
 Linear Regression cool for modeling linear relationships BUT not for non-lienar relationships.
@@ -55,7 +56,7 @@ Don't reinvent the wheel.
 
 Most data scientists DON'T need to code their algorithms from scratch.
 
-Efficiency and effectiveness above everything else -> be resourceful, think clearly, and have results. That's what matters.
+     Efficiency and effectiveness above everything else -> be resourceful, think clearly, and have results. That's what matters.
 
 You don't need to know all the underlying theory to apply ML on an effective way.
 
