@@ -11,3 +11,6 @@ Data Scientist use algorithms such as regression, clustering, classification, et
 There is people who labels data scientist for the size of their data, for whether they use, or don't use algorithms, etc. But as the author states and is really brilliant from my perspective. Engineers do what engineers do. They solve problems and build a better world with their work.
 
 *So data scientists do what data scientists do. They build a better world and solve problems through data.*
+
+# IBM Whatson Image Classification
+Had an introductory project using an image classification algorithm from IBM Watson Studio and it was pretty curious, since I upploaded various hard to identify images and the algorithm was able to identify the majority accuratedly in various ways while some others that were frankly really hard to discern, it didn't got anything right besides of the colors. 
