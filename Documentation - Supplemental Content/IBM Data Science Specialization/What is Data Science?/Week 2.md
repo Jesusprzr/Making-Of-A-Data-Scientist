@@ -33,3 +33,32 @@ Deep Learning is pretty new (less than 10 years old) and neural networks are pre
 **Evaluating mining results:** This evaluation could include testing the predictive capabilities of the model on observed data to see the effectiveness and efficiency of the algorithm <- *in-sample forecast*. You should also share the results with the key stakeholders for feedback, which you incorporate in the next iterations to improve the process.
 
 Data mining and evaluating the results are commonly an iterative process together.
+
+# Deep Learning & Machine Learning
+Neural networks are the computational approach on trying to mimic how the brain neurons actually work. Those networks can be trained with some inputs and outputs, then you try to transformate your neural networks until they get to your desired outputs.
+
+Deep learning are neural networks on esteroids -> multiple layers of neural networks and lots of computing power. This takes an enourmus amount of matrix and linear algebra calculations <- GPU power! 
+
+Some uses of D.L. are: speech recognition, people recognition, image recognition and classification, not only recognition or classification but also generation. It learns on its own the difference between different kinds of objects. Learns like a baby, starts slow and then with training does its task pretty accuratedly.
+
+For D.L. You need a lot of computational power and linear algebra <- matrix related!
+
+For becoming a Data Scientist you should know:
+* Programing skills
+* computational thinking
+* Algebra
+* Calculus
+* Probability
+* Statistics
+* Databases
+
+High-End D.S's work with hard computer science, statistics, and probability stuff.
+
+**Learn by doing.**
+
+**Understand your goal, lack of resilience and motivation is why the people who don't get it, don't get it.**
+
+Data Scientist are mostly in companies that have data and/or research capabilities.
+
+
+
