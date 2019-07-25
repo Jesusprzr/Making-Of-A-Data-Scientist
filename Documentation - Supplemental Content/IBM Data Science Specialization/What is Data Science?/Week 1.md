@@ -12,5 +12,5 @@ There is people who labels data scientist for the size of their data, for whethe
 
 *So data scientists do what data scientists do. They build a better world and solve problems through data.*
 
-# IBM Whatson Image Classification
+# IBM Watson Image Classification
 Had an introductory project using an image classification algorithm from IBM Watson Studio and it was pretty curious, since I upploaded various hard to identify images and the algorithm was able to identify the majority accuratedly in various ways while some others that were frankly really hard to discern, it didn't got anything right besides of the colors. 
