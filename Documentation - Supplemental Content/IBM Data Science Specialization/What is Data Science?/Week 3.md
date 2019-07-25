@@ -7,7 +7,7 @@
           if collect in data:
             data.collect((for measure) to improve)
             
-Archived data (better of well documentet) = Bussiness value (through algoritms and analytics)
+Archived data (better if well documentet/structured) = Bussiness value (through algoritms and analytics)
 
 Garbage In = Garbage Out -> no matter how good your data scientist is
 
