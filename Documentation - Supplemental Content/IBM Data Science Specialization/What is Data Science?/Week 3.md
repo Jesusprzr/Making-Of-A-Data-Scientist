@@ -107,3 +107,13 @@ Complete answers are not always the case, and that's fine.
 - References section.
 - Acknowledgement section.
 - Appendices (if needed).
+
+### Have you done your job as a writer?
+Questions to consider before submitting your work:
+- Have you told readers, at the outset, what they might gain by reading your paper?
+- Have you made the aim of your work clear?
+- Have you explained the significance of your contribution?
+- Have you set your work in the appropiate context by giving sufficient background (including a set of relevant references) to your work?
+- Have you adressed the question of practicality and usefulness?
+- Have you identified future developments that might result from your work?
+- Have you structured your paper in a clear and logical fashion?
