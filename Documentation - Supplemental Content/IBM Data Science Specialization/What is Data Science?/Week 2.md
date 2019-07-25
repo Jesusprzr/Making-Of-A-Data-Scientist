@@ -22,6 +22,14 @@ Deep Learning is pretty new (less than 10 years old) and neural networks are pre
 
 **Selecting data:** This is critical, because the output depends a lot on the input (which is the data you collect). So you need to know the usability, availability, type, size, and frequency of collection of your data. This is critical for the cost of your data mining process and also the output of your project.
 
-**Preprocessing data:** Selecting your data is the what, preprocessing is the how of your input. On this part you spot irrelevant data that needs to be discarted, identify and deal with errors (i.e. Human errors when parsing on information). Check to ensure the integrity of the data. Develop a formal method to deal with missing data. Is a data cleaning phase.
+**Preprocessing data:** Selecting your data is the what, preprocessing is the filter of your input. On this part you spot irrelevant data that needs to be discarted, identify and deal with errors (i.e. Human errors when parsing on information). Check to ensure the integrity of the data. Develop a formal method to deal with missing data. Is a data cleaning phase.
 
-**Transforming data:**
+**Transforming data:** This is the how of your input. Here you transform your features (variables) so they can be processed more efficiently. This can be done through data reduction (reduce the number of attributes needed to explain the phenomena), variable transformation (to help explain the phenomena being studied), aggregation, etc. An example on data transformation could be to transform the numeric variable of income into a categorical one (low, medium, and high-income individuals) to capture the non-linearities of the underlying behaviors.
+
+**Storing data:** It should be stored in a format that is conducive for data mining. The data storage scheme should facilitate efficiently the capacity of **reading** and **writing** data to the database. And it should also be stored on a **safe** and **private** place.
+
+**Mining data:** Here you cover data analysis methods (parametric and non-parametric ones), also ML algorithms. Data visualization is a good starting point. Multidimensional views using advanced graphing capabilities of data mining software are pretty helpful on preliminary understanding the trends hidden in the dataset.
+
+**Evaluating mining results:** This evaluation could include testing the predictive capabilities of the model on observed data to see the effectiveness and efficiency of the algorithm <- *in-sample forecast*. You should also share the results with the key stakeholders for feedback, which you incorporate in the next iterations to improve the process.
+
+Data mining and evaluating the results are commonly an iterative process together.
