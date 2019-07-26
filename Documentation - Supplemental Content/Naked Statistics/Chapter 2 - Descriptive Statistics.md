@@ -29,4 +29,8 @@ We have another summary statistic that is not the mean and can help us to calcul
 
 With the median being our descriptive stat. Even with Warren Buffet comming in and sitting next to Bill, the median would still be 35K (it would be the guy sitting on the sixth stool).
 
+We can also divide our distribution in quartiles (25% each) or even deciles (10% each). What about dividing the distribution into percentiles (1% each) it will be a lot more separated, detailed, and accurated. The benefit of these kinds of distributions is that they tell you where an observation lies compared with every other observation of the distribution. If I know that my song is in the 91 percentile on a test then I know I don't have to worry about his studies. It provides a ranking of my children's score relative to that of all other test takers.
 
+    Absolute value = I shoot 83 for eighteen holes on golf <- Has value on its own, intrinsic meaning.
+    Relative value = I place ninth in the golf tournament <- Has meaning only in comparison to something else.
+    
