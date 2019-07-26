@@ -37,14 +37,15 @@ We can also divide our distribution in quartiles (25% each) or even deciles (10%
     Relative value = I place ninth in the golf tournament <- Has meaning only in comparison to something else.
  
  One of the most important, helpful, and common distributions in stats is the normal distribution A.K.A. Bell shape distribution. It is a distribution bell shaped with the mean at the center of it and with **standard deviations** which tells us how spreaded the distribution is, and how common a value is depending of how many standard devations it is away from the mean.
- 
+
+**This is the foundation on which much of statistics is build!**
+
     1 S.D. = 68.2% range = 34.1% each side
     2 S.D. = 95.4% range = 34.1% + 13.6% each side
     3 S.D. = 99.7% range = 34.1% + 13.6% + 2.3% each side
     mean =  µ
     Standard Deviation = σ
 
-**This is the foundation on which much of statistics is build!**
 
 There are comparisons that make sense to us because we recognize the scale of the units involved, for example:
   
