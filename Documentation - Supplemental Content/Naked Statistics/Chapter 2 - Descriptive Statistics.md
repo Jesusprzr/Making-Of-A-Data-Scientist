@@ -120,6 +120,6 @@ Variance	is	rarely	used	as	a	descriptive	statistic	on	its	own.	Instead,	the vari
 
 The	standard	deviation	for	a	set	of	observations	is	the	square	root	of	the variance: 
 
-    For	any	set	of	n	observations	x1,	x2,	x3	.	.	.	xn	with	mean	µ, 
-    standard	deviation	=	σ	=	square	root	of	this	whole	quantity	=
+    For any set of N observations x1, x2, x3... xN with mean µ, 
+    standard deviation = σ = square root of this whole quantity =
     sqrt{[(x1 - µ)^2 + (x2 - µ)^2... + (xN - µ)^2]/N}
