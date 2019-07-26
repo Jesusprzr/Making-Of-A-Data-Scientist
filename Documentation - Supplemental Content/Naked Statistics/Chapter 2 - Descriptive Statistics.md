@@ -55,7 +55,7 @@ We can also divide our distribution in quartiles (25% each) or even deciles (10%
 - Granola cereal A contains 31 milligrams more sodium than granolla cerial B <- ONLY IF you know a lot about sodium and granola serving size, this won't be particularly informative
 - My cousin Al earned 53,000$ less this year than last year <- Should we be worried about Al? Or is he a W.S. Millionaire and 53K is just what the water he drinks costs?
     
-### The easiest way to give meaning to these comparisons is by using percentajes:
+### The easiest way to give meaning to these comparisons is by using percentages:
 - Granola Bar A has 50% more sodium than Granola Bar B
 - Uncle Al’s income fell 47% last year
  
@@ -67,7 +67,7 @@ We can also divide our distribution in quartiles (25% each) or even deciles (10%
   * New Assitant comes in and takes prices up by 25%
     * Dress value = 75$ + 25% = 93.75$ NOT 100$
     
-### A percentage change gives the value of soem figure, relative to something else!
+### A percentage change gives the value of some figure, relative to something else!
 - I invest a some money on my roommate investment fund
   * I recieve a mail telling me that the firm's profit where 46% higher than the year before
     * Suppose that last year the firm earned 27 cents—essentially nothing.
