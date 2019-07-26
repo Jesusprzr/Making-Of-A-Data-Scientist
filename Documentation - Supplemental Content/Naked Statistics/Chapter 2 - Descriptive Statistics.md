@@ -48,19 +48,16 @@ We can also divide our distribution in quartiles (25% each) or even deciles (10%
 
 
 ### There are comparisons that make sense to us because we recognize the scale of the units involved, for example:
-  
-    1 inch difference isn't much difference when is related to comparing two persons heights <- WE KNOW the context of the scales involved
-    9 degrees is a significant temperature deviation in any climate in any year <- WE KNOW the context of the scales involved
+- 1 inch difference isn't much difference when is related to comparing two persons heights <- WE KNOW the context of the scales involved
+- 9 degrees is a significant temperature deviation in any climate in any year <- WE KNOW the context of the scales involved
     
 ### Now, if I give you a comparison in which you don't have any context:
-
-    Granola cereal A contains 31 milligrams more sodium than granolla cerial B <- ONLY IF you know a lot about sodium and granola serving size, this won't be particularly informative
-    My cousin Al earned 53,000$ less this year than last year <- Should we be worried about Al? Or is he a W.S. Millionaire and 53K is just what the water he drinks costs?
+- Granola cereal A contains 31 milligrams more sodium than granolla cerial B <- ONLY IF you know a lot about sodium and granola serving size, this won't be particularly informative
+- My cousin Al earned 53,000$ less this year than last year <- Should we be worried about Al? Or is he a W.S. Millionaire and 53K is just what the water he drinks costs?
     
 ### The easiest way to give meaning to these comparisons is by using percentajes:
-
-    Granola Bar A has 50% more sodium than Granola Bar B
-    Uncle Al’s income fell 47% last year
+- Granola Bar A has 50% more sodium than Granola Bar B
+- Uncle Al’s income fell 47% last year
  
 ### Percentage changes could be potentially confusing and deceptive, for example:
 - X store sells a dress by 100$
