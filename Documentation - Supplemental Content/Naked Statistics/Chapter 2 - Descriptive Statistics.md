@@ -29,8 +29,28 @@ We have another summary statistic that is not the mean and can help us to calcul
 
 With the median being our descriptive stat. Even with Warren Buffet comming in and sitting next to Bill, the median would still be 35K (it would be the guy sitting on the sixth stool).
 
-We can also divide our distribution in quartiles (25% each) or even deciles (10% each). What about dividing the distribution into percentiles (1% each) it will be a lot more separated, detailed, and accurated. The benefit of these kinds of distributions is that they tell you where an observation lies compared with every other observation of the distribution. If I know that my song is in the 91 percentile on a test then I know I don't have to worry about his studies. It provides a ranking of my children's score relative to that of all other test takers.
+A frequency distribution is as the name suggests, a way to see the frequency of each observation of the variable completely distributed through the entire axis (it has to sum to 1/100%).
+
+We can also divide our distribution in quartiles (25% each) or even deciles (10% each). What about dividing the distribution into percentiles (1% each) it will be a lot more separated, detailed, and accurated. The benefit of these kinds of distributions is that they tell you where an observation lies **compared** with every other observation of the distribution. If I know that my song is in the 91 percentile on a test then I know I don't have to much to worry about his studies. It provides a ranking of my children's score relative to that of all other test takers.
 
     Absolute value = I shoot 83 for eighteen holes on golf <- Has value on its own, intrinsic meaning.
     Relative value = I place ninth in the golf tournament <- Has meaning only in comparison to something else.
+ 
+ One of the most important, helpful, and common distributions in stats is the normal distribution A.K.A. Bell shape distribution. It is a distribution bell shaped with the mean at the center of it and with **standard deviations** which tells us how spreaded the distribution is, and how common a value is depending of how many standard devations it is away from the mean.
+ 
+    1 S.D. = 68.2% range = 34.1% each side
+    2 S.D. = 95.4% range = 34.1% + 13.6% each side
+    3 S.D. = 99.7% range = 34.1% + 13.6% + 2.3% each side
+    mean =  µ
+    Standard Deviation = σ
+
+**This is the foundation on which much of statistics is build!**
+
+There are comparisons that make sense to us because we recognize the scale of the units involved, for example:
+  
+    1 inch difference isn't much difference when is related to comparing two persons heights <- We know the context of the scales involved
+    9 degrees is a significant temperature deviation in any climate in any year <- We know the context of the scales involved
+    Granola cereal A contains 31 milligrams more sodium than granolla cerial B <- Only of you know a lot about sodium and granola serving size, this won't be particularly informative
     
+
+ 
