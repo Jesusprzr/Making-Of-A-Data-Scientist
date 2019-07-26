@@ -45,7 +45,11 @@ We can also divide our distribution in quartiles (25% each) or even deciles (10%
     3 S.D. = 99.7% range = 34.1% + 13.6% + 2.3% each side
     mean =  µ
     Standard Deviation = σ
+    
+### To better understand the standard deviation
+You go to the doctor because you feel bad since the last time you got drunk with Bill Gates, he draws blood and the assistance gives you the results of the exam, your HIJK blood count (i've just invented that) is 80, and in the exam it says that the mediam is 70! Jesus Christ!!
 
+Once you see this you go, make a letter crying to the ones you love, go swim with sharks, go skydiving, jump out of a plain without parachute, write a novel about your life, and... Then when you call back to your hospital to arrange for your hospice care, they tell you that your values are among the normal range, there is nothing wrong. You yell at them "HOW THIS CAN BE POSSIBLE?, MY HIJK VALUE IS 10 POINTS ABOVE THE MEAN!! I'M GONNA DIE!!" and it results that 1 standard deviation for that value is 15 points, which enters in the normal values, that translates to -> mean = 70 1 S.D. -> 65 - 85, so you are OK :) 
 
 ### There are comparisons that make sense to us because we recognize the scale of the units involved, for example:
 - 1 inch difference isn't much difference when is related to comparing two persons heights <- WE KNOW the context of the scales involved
@@ -87,3 +91,17 @@ An index is a highly sensitive pill of the descriptive statistics that it encaps
 
 This is why -> **indices range from useful but imperfect tools to complete charades.**
 And not only indices, descriptive statistics in general can be misleading if not treated properly, so remember that descriptive statistics are a summary to help understand and describe things better, but also there is loss of information so don't relly totally on them, be skeptical and analyze what they are telling you about the subject and what they aren't taking in count about it.
+
+### To answer our initial questions:
+Who is the best baseball player of all	time?	More	important	for	the	purposes	of	this chapter,	what	descriptive	statistics	would	be most helpful in answering	that question?
+
+According	to	Steve	Moyer,	president	of	Baseball	Info	Solutions:
+- **On-base	percentage (OBP):** Measures the proportion	of the	time that a	player reaches	base successfully,	including	walks (which	are	not	counted	in	the	batting average).
+- **Slugging percentage (SLG):** Measures	power	hitting	by	calculating	the total	bases	reached	per	at	bat.	A	single	counts	as	1,	a	double	is	2,	a	triple	is 3,	and	a	home	run	is	4.	Thus,	a	batter	who	hit	a	single	and	a	triple	in	five	at bats	would	have	a	slugging	percentage	of	(1	+	3)/5,	or	.800.
+- **At	bats	(AB):** Puts	the	above	in	context.	Any	mope	can	have	impressive statistics	for	a	game	or	two.	A	superstar	compiles	impressive	“numbers” over	thousands	of	plate	appearances. 
+
+In Moyer’s view, the best baseball player of all time was Babe Ruth because	of	his	unique	ability	to	hit	and	to	pitch. Babe	Ruth still	holds	the	Major	League career record for slugging percentage at .690.
+
+What about the economic health of the American middle class?
+
+we should examine changes in the median wage (adjusted	for	inflation) over the	last several	decades. They also recommended examining changes to wages at the 25th and 75th percentiles (which	can	reasonably be interpreted	as	the	upper	and	lower	bounds	for	the middle class). One	more	distinction	is	in	order.	When	assessing	economic	health,	we	can examine	income	or	wages. The	wage is	a	less	ambiguous	measure	of	how	Americans	are	being	compensated	for	the work	they	do;	the	higher	the	wage,	the	more	workers	take	home	for	every	hour on	the	job. The income means everything they earn together, this may include side hustles, passive income, or if they are working in two jobs at the same time. This doesn't address how is the economic health of middle class as good as wages. [Here is the full infor about that.](http://www.cbo.gov/sites/default/files/cbofiles/ftpdocs/120xx/doc12051/02-16-wagedispersion.pdf)
