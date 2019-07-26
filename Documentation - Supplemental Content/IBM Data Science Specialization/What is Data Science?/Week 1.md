@@ -14,3 +14,7 @@ There is people who labels data scientist for the size of their data, for whethe
 
 # IBM Watson Image Classification
 Had an introductory project using an image classification algorithm from IBM Watson Studio and it was pretty curious, since I upploaded various hard to identify images and the algorithm was able to identify the majority accuratedly in various ways while some others that were frankly really hard to discern, it didn't got anything right besides of the colors. 
+
+### Here you have a sample of the image classification algorithm
+
+![ImageClassification](https://drive.google.com/uc?export=1J75J5wbBhVtZCdVP9ewf5KS7jCB7OITd)
