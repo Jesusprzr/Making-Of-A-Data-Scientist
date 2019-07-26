@@ -17,4 +17,4 @@ Had an introductory project using an image classification algorithm from IBM Wat
 
 ### Here you have a sample of the image classification algorithm
 
-![ImageClassification](![ImageClassification](https://drive.google.com/uc?export=view&id=1J75J5wbBhVtZCdVP9ewf5KS7jCB7OITd))
+![ImageClassification](https://drive.google.com/uc?export=view&id=1J75J5wbBhVtZCdVP9ewf5KS7jCB7OITd)
