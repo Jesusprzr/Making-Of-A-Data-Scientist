@@ -48,9 +48,9 @@ We can also divide our distribution in quartiles (25% each) or even deciles (10%
 
 There are comparisons that make sense to us because we recognize the scale of the units involved, for example:
   
-    1 inch difference isn't much difference when is related to comparing two persons heights <- We know the context of the scales involved
-    9 degrees is a significant temperature deviation in any climate in any year <- We know the context of the scales involved
-    Granola cereal A contains 31 milligrams more sodium than granolla cerial B <- Only of you know a lot about sodium and granola serving size, this won't be particularly informative
+    1 inch difference isn't much difference when is related to comparing two persons heights <- WE KNOW the context of the scales involved
+    9 degrees is a significant temperature deviation in any climate in any year <- WE KNOW the context of the scales involved
+    Granola cereal A contains 31 milligrams more sodium than granolla cerial B <- ONLY IF you know a lot about sodium and granola serving size, this won't be particularly informative
     
 
  
