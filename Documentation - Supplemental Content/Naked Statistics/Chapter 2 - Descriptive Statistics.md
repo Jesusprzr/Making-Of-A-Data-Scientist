@@ -82,3 +82,8 @@ We can also divide our distribution in quartiles (25% each) or even deciles (10%
     * Republicans focus on percentage change in tax burden
 - Both descriptions are correct, BUT the republicans one more accuratedly conveys the impact of the tax change
 
+### Superpills
+An index is a highly sensitive pill of the descriptive statistics that it encapsulates. Any minor change on the weight given to its components can change partially to totally the outcome.
+
+This is why -> **indices range from useful but imperfect tools to complete charades.**
+And not only indices, descriptive statistics in general can be misleading of not treated properly, so remember that descriptive statistics are a summary to help understand and descrive things better, but also there is loss of information so don't relly totally on them, be skeptical and analyze how they impact your knowledge of the subject and what they aren't taking in count about it.
