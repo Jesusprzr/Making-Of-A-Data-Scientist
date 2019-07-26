@@ -107,3 +107,19 @@ What about the economic health of the American middle class?
 we should examine changes in the median wage (adjusted	for	inflation) over the	last several	decades. They also recommended examining changes to wages at the 25th and 75th percentiles (which	can	reasonably be interpreted	as	the	upper	and	lower	bounds	for	the middle class). One	more	distinction	is	in	order.	When	assessing	economic	health,	we	can examine	income	or	wages. The	wage is	a	less	ambiguous	measure	of	how	Americans	are	being	compensated	for	the work	they	do;	the	higher	the	wage,	the	more	workers	take	home	for	every	hour on	the	job. The income means everything they earn together, this may include side hustles, passive income, or if they are working in two jobs at the same time. This doesn't address how is the economic health of middle class as good as wages. [Here is the full info and answer about that.](http://www.cbo.gov/sites/default/files/cbofiles/ftpdocs/120xx/doc12051/02-16-wagedispersion.pdf)
 
 A	variety	of	conclusions	can	be	drawn	from	these	data.	They	do	not	present	a single	“right”	answer	with	regard	to	the	economic	fortunes	of	the	middle	class. They	do	tell	us	that	the	typical	worker,	an	American	worker	earning	the	median wage,	has	been	“running	in	place”	for	nearly	thirty	years.	Workers	at	the	90th percentile	have	done	much,	much	better.	Descriptive	statistics	help	to	frame	the issue.	What	we	do	about	it,	if	anything,	is	an	ideological	and	political	question. 
+
+### Formula	for	variance	and	standard	deviation 
+Variance	and	standard	deviation	are	the	most	common	statistical	mechanisms	for measuring	and	describing	the	dispersion	of	a	distribution.	The	variance,	which	is often	represented	by	the	symbol	σ2,	is	calculated	by	determining	how	far	the observations	within	a	distribution	lie	from	the	mean.	However,	the	twist	is	that the	difference	between	each	observation	and	the	mean	is	squared;	the	sum	of those	squared	terms	is	then	divided	by	the	number	of	observations. Specifically:
+
+    For any set of N observations x1, x2... xN with mean µ:
+    Variance = σ^2 = [(x1 - µ)^2 + (x2 - µ)^2... + (xN - µ)^2]/N
+
+Because	the	difference	between	each	term	and	the	mean	is	squared,	the formula	for	calculating	variance	puts	particular	weight	on	observations	that	lie far	from	the	mean,	or	outliers
+
+Variance	is	rarely	used	as	a	descriptive	statistic	on	its	own.	Instead,	the variance	is	most	useful	as	a	step	toward	calculating	the	standard	deviation	of	a distribution,	which	is	a	more	intuitive	tool	as	a	descriptive	statistic.
+
+The	standard	deviation	for	a	set	of	observations	is	the	square	root	of	the variance: 
+
+    For	any	set	of	n	observations	x1,	x2,	x3	.	.	.	xn	with	mean	µ, 
+    standard	deviation	=	σ	=	square	root	of	this	whole	quantity	=
+    sqrt{[(x1 - µ)^2 + (x2 - µ)^2... + (xN - µ)^2]/N}
