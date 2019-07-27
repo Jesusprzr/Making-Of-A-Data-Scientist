@@ -54,7 +54,7 @@ When we see just the median or mean on a distribution it could be for one of two
 
 ## Apples and oranges comparisons
 
-When you are doing a comparison, make sure which type of fruits are you comparing:
+When you are doing a comparison, make sure which type of fruits you are comparing:
  
     6 years old searches hotel cost differences:
       A night in Paris costs 160
@@ -67,5 +67,23 @@ When you are doing a comparison, make sure which type of fruits are you comparin
     
 When you are comparing apples and apples, make sure the comparison is red apples and red apples and not red and green ones:
 
+    Comparing red apples and green ones is not correct, both are apples but have totally different taste.
+    The same is when comparing the same currency without adjusting it for inflation.
+    Hollywood likes to equally compare their apples even if their taste is totally different
+      This allows them to say that nowdays apples have been improving related to old ones:
+      Top 5 highest-grossing films of all times as of 2011 (comparing red and green apples):
+        1.	Avatar	(2009) 
+        2.	Titanic	(1997) 
+        3.	The	Dark	Knight	(2008) 
+        4.	Star	Wars	Episode	IV	(1977) 
+        5.	Shrek	2	(2004)
+      Now, earning 100 million in 1939 is a lot more impressive than earning 500 million in 2011
+      Top 5 highest-grossing films of all times as of 2011 (comparing green and green apples):
+        1.	Gone	with	the	Wind	(1939) 
+        2.	Star	Wars	Episode	IV	(1977) 
+        3.	The	Sound	of	Music	(1965) 
+        4.	E.T.	(1982) 
+        5.	The	Ten	Commandments	(1956)
+    You see, apples are apples but not all apples are equal, as dollars are dollars but not all dollars value the same
     
    
