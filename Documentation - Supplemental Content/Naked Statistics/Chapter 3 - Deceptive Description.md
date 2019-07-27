@@ -30,3 +30,13 @@ What does this means?
 - It means that our manufacturing processes are becoming more efficient, which enables us to have less workers but more results and also to compete with other countries with lower manufacturing hourly wages.
 - It also means that there are fewer manufacturing jobs, which is extremely bad for the displaced workers who depend on those wages.
 
+The U.S. Is the third larger manufacturer in the world, behind China and Germany.
+
+Is globalization making income inequality around the globe better or worst?
+- By one interpretation, income inequalities has been boosted due to globalization. Because as measured by GDP por capita, rich countries just got richier tending to growth faster than poor countries during the 1980 to 2000 period.
+- On the other hand, if we change the unit of analysis the same data can be interpred differently. -> We don't care about poor countries, we care about poor people. China and India happen to be two of the bigger countries in the world (population > 1 billion) but two of the poorer countries in the world. But with globalization both have rapidly grown over the past several decades. The proper analysis yields an entirely different conclusion about the benefits of globalization for the world’s poor. As the Economist points out, “If you consider people, not countries, global inequality is falling rapidly.”
+
+**The key lesson IS to pay attention to the unit of analysis. Who or What is being described, and is that different from the Who or What being described by someone else.**
+
+
+
