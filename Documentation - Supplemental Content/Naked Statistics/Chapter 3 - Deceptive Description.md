@@ -53,3 +53,19 @@ When we see just the median or mean on a distribution it could be for one of two
 2. Someone is looking to persuade with statistics
 
 ## Apples and oranges comparisons
+
+When you are doing a comparison, make sure which type of fruits are you comparing:
+ 
+    6 years old searches hotel cost differences:
+      A night in Paris costs 160
+      A night in London costs 150
+    London is cheaper so let's go to London.
+    The problem is oranges and apples:
+      A night in Paris = 160 EUR
+      A night in London = 150 GBP
+    So, which one is cheaper?
+    
+When you are comparing apples and apples, make sure the comparison is red apples and red apples and not red and green ones:
+
+    
+   
