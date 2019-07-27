@@ -86,4 +86,9 @@ When you are comparing apples and apples, make sure the comparison is red apples
         5.	The	Ten	Commandments	(1956)
     You see, apples are apples but not all apples are equal, as dollars are dollars but not all dollars value the same
     
-   
+People even get chills while saying that the highest-gross movie was released this year, and they are pretty wrong:
+
+    1939 Gone with the Wind	$3,728,000,000
+    2019	Avengers: Endgame	$2,791,767,021
+    	
+### Percentages give a sense of scale, context & it can stop your pulse!
