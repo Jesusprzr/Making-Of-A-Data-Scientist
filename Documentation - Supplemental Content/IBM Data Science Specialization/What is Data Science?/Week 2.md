@@ -22,7 +22,9 @@ Deep Learning is pretty new (less than 10 years old) and neural networks are pre
 
 **Selecting data:** This is critical, because the output depends a lot on the input (which is the data you collect). So you need to know the usability, availability, type, size, and frequency of collection of your data. This is critical for the cost of your data mining process and also the output of your project.
 
-**Preprocessing data:** Selecting your data is the what, preprocessing is the filter of your input. On this part you spot irrelevant data that needs to be discarted, identify and deal with errors (i.e. Human errors when parsing on information). Check to ensure the integrity of the data. Develop a formal method to deal with missing data. Is a data cleaning phase.
+**Preprocessing data:** Selecting your data is the what, preprocessing is the filter of your input. On this part you spot irrelevant data that needs to be discarted, identify and deal with errors (i.e. Human errors when parsing on information). Check to ensure the integrity of the data. Develop a formal method to deal with missing data. Is a data cleaning phase. When data are missing in a systematic way, you need to determine if the impact of those missing values is relevant enough to damage the integrity of the output. If so, then you have to contemplate if there is an efficient way to fill this gap, collect data somewhere else, or even question  the viability of the project.
+
+
 
 **Transforming data:** This is the how of your input. Here you transform your features (variables) so they can be processed more efficiently. This can be done through data reduction (reduce the number of attributes needed to explain the phenomena), variable transformation (to help explain the phenomena being studied), aggregation, etc. An example on data transformation could be to transform the numeric variable of income into a categorical one (low, medium, and high-income individuals) to capture the non-linearities of the underlying behaviors.
 
