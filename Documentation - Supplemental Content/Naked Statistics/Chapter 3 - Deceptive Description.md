@@ -125,3 +125,5 @@ New York cardiologists were literally letting people die because they didn't wan
 * If the simplicity and ease of use introduced by collapsing many indicators into a single number outweighs the inherent inaccuracy of the process.
 * You can't manage what you can't measure. But you need to make sure that what you are measuring is really what you are trying to manage.
 * Statistics measure the outcomes that matter; Incentives gives us a reason to improve those outcomes. So we need to make sure that who is beign evaluated can't make himself look better (statistically) in ways that are not consistent with the goal at hand.
+
+Statistical malfeance has very little to do with bad math. If anything, impressive calculations can can obscure nefarious motives. The fact that you've calculated the mean correctly doesn't alter the fact that the mediam is a more accurate indicator. **Judgement and integrity turn out to be surprisingly important.** With both statistics and crime (havign a detailed knowledge), the bad guys often know exactly what they are doing!
