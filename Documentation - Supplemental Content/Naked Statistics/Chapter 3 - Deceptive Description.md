@@ -91,9 +91,37 @@ People even get chills while saying that the highest-gross movie was released th
     1939 Gone with the Wind	$3,728,000,000
     2019 Avengers: Endgame $2,791,767,021
     	
-### Percentages give a sense of scale, context & they can stop your pulse!
+## Percentages give a sense of scale, context & they can stop your pulse!
 What if you wake up one day and learn that a portion of your taxes will go up 500%? Would you freak out?
 
 Then, what if you notice that this new taxes won't represent even the cost of a turkey sandwich? 
 
 This is because the growth figure is qualified **from a low base** which means that any increase is going to look larger by comparison. The amount you currently pay for those taxes is that extremely low, that even a 500% increment represents nothing. This is why percentages are a good comparison in context for what was the last outcome but if you know the magnitude of that outcome.
+
+## Statistical trickery
+When we are about to measure something, we really need to deeple think about how we will measure that. 
+
+For example, if we want to measure and reward schools based on their educational level we CAN'T do it by their SAT score or even by giving the students a pretest before they enter the school and a posttest after they graduate from the school, becuase there are many variables that affect that outcome and we wouldn't be taking them into consideration, like, where does the student comes from (a competent or incompetent early educational institution), how good is their learning ability. So we would need to take in count the students background or ability to learn.
+
+Also there could be schools where the population is on extreme disadvantages but the professors are doing a remarkable job, while there could be schools where the population has all the existing privileges but because of that ease the proffesor's work is mediocre. Which leads to not so good results on the first case, while on the second istance the results are better than reality due to the mediocrity of the proffesor.
+
+There are newspapers and magazines that publish a ranking of the best high schools based on the state test score data. Most of the high schools at the top are selective enrollment schools, which means that the students who enter to these schools are the ones with the highest test scores. So these schools are at the top of the rankings not because of their educational level but because the students they admit are only the ones with the highest test scores <- This is like awarding a basketball team for having tall students.
+
+There could even be people that just because they know what the measurements are, they just tricker their outputs to get a desired result but without actually improving on the things that lead to these outputs, they could even be destroying what they are measuring just for the sake of their own interests. i.e.
+
+George W. Bush hired Rod Paige (who was the Houston School Superintendent) to be the U.S. Secretary of education because of his remarkable success in boosting test scores and reducing droput rate in Houston. But then the truth comes out to show how corrupted this man was, and that if there was something remarkable of him, was the manipulation of statistics he was stimulating.
+- He gave cash bonuses to the principals who met his dropout and test score goals.
+- He fired or demoted the principals that failed to meet his targets.
+- Principal responded to these incentives.
+- But he was certain that those folks beign evaluated (the principals) were making themselves look better (statistically) in ways that are not consistent with the goals at hand.
+  * Schools labeled students who quit high school as transfered to other school, return to their native coutry, or leave to pursue a general equivalence diploma.
+  * **The actual high school dropout rate (without that trickery) was between 25-50%
+  * They were preventing the worst students to take the tests or advance to the grades that are took into consideration for the statewide achievement test, retaining them in lower grades for a few years and then taking them to one or two grades above the schivement test ones.
+  * That was their way to keep a weak student from taking a benchmark test without forcing him to dropout.
+  
+New York cardiologists were literally letting people die because they didn't wanted to see their mortality rate for coronary angioplasty (heart disease treatment) go up. The patients that had the worst conditions were leaved on their favour just because the possibility of them dying on the surgery was bigger, and therefore the cardiologist mortality rate statistics would go up.
+
+### There are three main questions that we should ask ourselves for making indices and measuring statistics:
+* If the simplicity and ease of use introduced by collapsing many indicators into a single number outweighs the inherent inaccuracy of the process.
+* You can't manage what you can't measure. But you need to make sure that what you are measuring is really what you are trying to manage.
+* Statistics measure the outcomes that matter; Incentives gives us a reason to improve those outcomes. So we need to make sure that who is beign evaluated can't make himself look better (statistically) in ways that are not consistent with the goal at hand.
