@@ -92,3 +92,8 @@ People even get chills while saying that the highest-gross movie was released th
     2019 Avengers: Endgame $2,791,767,021
     	
 ### Percentages give a sense of scale, context & they can stop your pulse!
+What if you wake up one day and learn that a portion of your taxes will go up 500%? Would you freak out?
+
+Then, what if you notice that this new taxes won't represent even the cost of a turkey sandwich? 
+
+This is because the growth figure is qualified **from a low base** which means that any increase is going to look larger by comparison. The amount you currently pay for those taxes is that extremely low, that even a 500% increment represents nothing. This is why percentages are a good comparison in context for what was the last outcome but if you know the magnitude of that outcome.
