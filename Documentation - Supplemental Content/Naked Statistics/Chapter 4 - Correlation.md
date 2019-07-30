@@ -15,5 +15,14 @@ To calculate the correlation coefficient we do the following:
    - If the distance from the mean of one variable tends to be broadly consistent with the distance from the mean of the other variable and in the same direction -> Then we would expect a strong positive correlation.
    - If the distance from the mean of one variable tends to be broadly consistent with the distance from the mean of the other variable but on the opposite direction -> Then we would expect a strong negative correlation.
    - If two variables do not tend to deviate from the mean in ani meaningful pattern -> Then we would expect little or no correlation.
+4. sum all the calculations of the observations and divide them by the number of observations. 
    
 **Correlation doesn't mean causation** remember that! i.e. Students with more tvs at their house have better SAT scores, but that doesn't mean that the more tvs you have the better your kid will be at school. The underlying causality of both could be that the parents education is great which allows them to have a greater income, buy more tvs, and educate better their kids. 
+
+To finish the Netflix stuff:
+- They have an algorithm
+  * This algorithm compares the ratings of the customers that have the most correlation with my ratings.
+  * The algorithm recommends movies that I haven't seem that those others customers have rated higher.
+- It is more complex but that's the end function
+- It also has to take in count film genre and other stuff
+
